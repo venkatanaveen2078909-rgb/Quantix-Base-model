@@ -1,0 +1,17 @@
+{
+  "depot_id": "DEPOT_001",
+  "name": "Central Logistics Hub - Andheri Industrial Estate",
+  "location": {
+    "latitude": 19.1197,
+    "longitude": 72.8785,
+    "address": "Andheri Industrial Estate, Andheri East, Mumbai - 400069"
+  },
+  "operating_hours": {
+    "start_time": "04:00",
+    "end_time": "23:59"
+  },
+  "capacity": {
+    "max_vehicles": 500,
+    "max_packages_per_day": 100000
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "client_id": "CLIENT_2026_MUM_V2",
+  "generated": "2026-03-25T09:00:00+05:30",
+  "summary": {
+    "total_locations": 500,
+    "total_orders": 1000,
+    "total_vehicles": 200,
+    "total_nodes_in_matrix": 501,
+    "city": "Mumbai, Maharashtra, India"
+  },
+  "sections": [
+    {
+      "section": "1A",
+      "file": "A_Depot_Warehouse_Information.json",
+      "records": 1
+    },
+    {
+      "section": "1B",
+      "file": "B_Delivery_Locations_Nodes.json",
+      "records": 500
+    },
+    {
+      "section": "1C",
+      "file": "C_Package_Order_Information.json",
+      "records": 1000
+    },
+    {
+      "section": "1D",
+      "file": "D_Vehicle_Fleet_Information.json",
+      "records": 200
+    },
+    {
+      "section": "2E",
+      "file": "E_Distance_Matrix.json",
+      "records": "501x501"
+    },
+    {
+      "section": "2F",
+      "file": "F_Time_Matrix.json",
+      "records": "501x501"
+    },
+    {
+      "section": "2G",
+      "file": "G_Road_Network_Information.json",
+      "records": 79
+    },
+    {
+      "section": "3H",
+      "file": "H_Business_Constraints.json",
+      "records": 1
+    },
+    {
+      "section": "3I",
+      "file": "I_Optimization_Objectives.json",
+      "records": 1
+    },
+    {
+      "section": "4J",
+      "file": "J_Real_Time_Traffic_Weather.json",
+      "records": 1
+    },
+    {
+      "section": "4K",
+      "file": "K_Dynamic_Order_Updates.json",
+      "records": 1
+    }
+  ]
+}

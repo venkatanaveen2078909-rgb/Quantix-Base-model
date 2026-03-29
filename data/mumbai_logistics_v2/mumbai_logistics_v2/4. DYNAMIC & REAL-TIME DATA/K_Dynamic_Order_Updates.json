@@ -1,0 +1,149 @@
+{
+  "new_orders": [],
+  "cancelled_orders": [
+    "ORD_0165",
+    "ORD_0324",
+    "ORD_0655",
+    "ORD_0937",
+    "ORD_0915",
+    "ORD_0880",
+    "ORD_0956",
+    "ORD_0330",
+    "ORD_0054",
+    "ORD_0687"
+  ],
+  "modified_orders": [
+    {
+      "order_id": "ORD_0141",
+      "new_time_window": {
+        "earliest_time": "10:00",
+        "latest_time": "15:00"
+      }
+    },
+    {
+      "order_id": "ORD_0586",
+      "new_time_window": {
+        "earliest_time": "10:00",
+        "latest_time": "15:00"
+      }
+    },
+    {
+      "order_id": "ORD_0507",
+      "new_time_window": {
+        "earliest_time": "10:00",
+        "latest_time": "15:00"
+      }
+    },
+    {
+      "order_id": "ORD_0484",
+      "new_time_window": {
+        "earliest_time": "10:00",
+        "latest_time": "15:00"
+      }
+    },
+    {
+      "order_id": "ORD_0454",
+      "new_time_window": {
+        "earliest_time": "10:00",
+        "latest_time": "15:00"
+      }
+    },
+    {
+      "order_id": "ORD_0509",
+      "new_time_window": {
+        "earliest_time": "10:00",
+        "latest_time": "15:00"
+      }
+    },
+    {
+      "order_id": "ORD_0567",
+      "new_time_window": {
+        "earliest_time": "10:00",
+        "latest_time": "15:00"
+      }
+    },
+    {
+      "order_id": "ORD_0787",
+      "new_time_window": {
+        "earliest_time": "10:00",
+        "latest_time": "15:00"
+      }
+    },
+    {
+      "order_id": "ORD_0466",
+      "new_time_window": {
+        "earliest_time": "10:00",
+        "latest_time": "15:00"
+      }
+    },
+    {
+      "order_id": "ORD_0294",
+      "new_time_window": {
+        "earliest_time": "10:00",
+        "latest_time": "15:00"
+      }
+    },
+    {
+      "order_id": "ORD_0166",
+      "new_time_window": {
+        "earliest_time": "10:00",
+        "latest_time": "15:00"
+      }
+    },
+    {
+      "order_id": "ORD_0910",
+      "new_time_window": {
+        "earliest_time": "10:00",
+        "latest_time": "15:00"
+      }
+    },
+    {
+      "order_id": "ORD_0702",
+      "new_time_window": {
+        "earliest_time": "10:00",
+        "latest_time": "15:00"
+      }
+    },
+    {
+      "order_id": "ORD_0233",
+      "new_time_window": {
+        "earliest_time": "10:00",
+        "latest_time": "15:00"
+      }
+    },
+    {
+      "order_id": "ORD_0732",
+      "new_time_window": {
+        "earliest_time": "10:00",
+        "latest_time": "15:00"
+      }
+    }
+  ],
+  "vehicle_status_changes": [
+    {
+      "vehicle_id": "VEH_177",
+      "status": "maintenance",
+      "available_from": "2026-03-26T08:00:00+05:30"
+    },
+    {
+      "vehicle_id": "VEH_083",
+      "status": "maintenance",
+      "available_from": "2026-03-26T08:00:00+05:30"
+    },
+    {
+      "vehicle_id": "VEH_125",
+      "status": "maintenance",
+      "available_from": "2026-03-26T08:00:00+05:30"
+    },
+    {
+      "vehicle_id": "VEH_157",
+      "status": "maintenance",
+      "available_from": "2026-03-26T08:00:00+05:30"
+    },
+    {
+      "vehicle_id": "VEH_090",
+      "status": "maintenance",
+      "available_from": "2026-03-26T08:00:00+05:30"
+    }
+  ]
+}

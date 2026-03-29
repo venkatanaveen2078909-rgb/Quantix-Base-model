@@ -1,0 +1,213 @@
+{
+  "timestamp": "2026-03-25T09:00:00+05:30",
+  "traffic_data": [
+    {
+      "segment_id": "SEG_001",
+      "current_speed": 11,
+      "average_speed": 54,
+      "congestion_level": 0.67,
+      "incidents": []
+    },
+    {
+      "segment_id": "SEG_002",
+      "current_speed": 55,
+      "average_speed": 59,
+      "congestion_level": 0.76,
+      "incidents": []
+    },
+    {
+      "segment_id": "SEG_003",
+      "current_speed": 30,
+      "average_speed": 49,
+      "congestion_level": 0.35,
+      "incidents": []
+    },
+    {
+      "segment_id": "SEG_004",
+      "current_speed": 53,
+      "average_speed": 45,
+      "congestion_level": 0.77,
+      "incidents": "road work"
+    },
+    {
+      "segment_id": "SEG_005",
+      "current_speed": 44,
+      "average_speed": 32,
+      "congestion_level": 0.86,
+      "incidents": []
+    },
+    {
+      "segment_id": "SEG_006",
+      "current_speed": 52,
+      "average_speed": 44,
+      "congestion_level": 0.84,
+      "incidents": []
+    },
+    {
+      "segment_id": "SEG_007",
+      "current_speed": 16,
+      "average_speed": 43,
+      "congestion_level": 0.83,
+      "incidents": []
+    },
+    {
+      "segment_id": "SEG_008",
+      "current_speed": 45,
+      "average_speed": 58,
+      "congestion_level": 0.71,
+      "incidents": []
+    },
+    {
+      "segment_id": "SEG_009",
+      "current_speed": 14,
+      "average_speed": 38,
+      "congestion_level": 0.71,
+      "incidents": []
+    },
+    {
+      "segment_id": "SEG_010",
+      "current_speed": 35,
+      "average_speed": 31,
+      "congestion_level": 0.82,
+      "incidents": []
+    },
+    {
+      "segment_id": "SEG_011",
+      "current_speed": 31,
+      "average_speed": 59,
+      "congestion_level": 0.24,
+      "incidents": []
+    },
+    {
+      "segment_id": "SEG_012",
+      "current_speed": 43,
+      "average_speed": 52,
+      "congestion_level": 0.37,
+      "incidents": "road work"
+    },
+    {
+      "segment_id": "SEG_013",
+      "current_speed": 22,
+      "average_speed": 36,
+      "congestion_level": 0.81,
+      "incidents": "road work"
+    },
+    {
+      "segment_id": "SEG_014",
+      "current_speed": 24,
+      "average_speed": 54,
+      "congestion_level": 0.72,
+      "incidents": []
+    },
+    {
+      "segment_id": "SEG_015",
+      "current_speed": 50,
+      "average_speed": 39,
+      "congestion_level": 0.51,
+      "incidents": []
+    },
+    {
+      "segment_id": "SEG_016",
+      "current_speed": 54,
+      "average_speed": 31,
+      "congestion_level": 0.32,
+      "incidents": []
+    },
+    {
+      "segment_id": "SEG_017",
+      "current_speed": 41,
+      "average_speed": 54,
+      "congestion_level": 0.6,
+      "incidents": []
+    },
+    {
+      "segment_id": "SEG_018",
+      "current_speed": 11,
+      "average_speed": 41,
+      "congestion_level": 0.5,
+      "incidents": []
+    },
+    {
+      "segment_id": "SEG_019",
+      "current_speed": 39,
+      "average_speed": 48,
+      "congestion_level": 0.26,
+      "incidents": []
+    },
+    {
+      "segment_id": "SEG_020",
+      "current_speed": 19,
+      "average_speed": 45,
+      "congestion_level": 0.68,
+      "incidents": "road work"
+    },
+    {
+      "segment_id": "SEG_021",
+      "current_speed": 12,
+      "average_speed": 34,
+      "congestion_level": 0.22,
+      "incidents": []
+    },
+    {
+      "segment_id": "SEG_022",
+      "current_speed": 48,
+      "average_speed": 60,
+      "congestion_level": 0.33,
+      "incidents": "road work"
+    },
+    {
+      "segment_id": "SEG_023",
+      "current_speed": 47,
+      "average_speed": 60,
+      "congestion_level": 0.7,
+      "incidents": []
+    },
+    {
+      "segment_id": "SEG_024",
+      "current_speed": 54,
+      "average_speed": 44,
+      "congestion_level": 0.74,
+      "incidents": "road work"
+    },
+    {
+      "segment_id": "SEG_025",
+      "current_speed": 41,
+      "average_speed": 52,
+      "congestion_level": 0.84,
+      "incidents": []
+    },
+    {
+      "segment_id": "SEG_026",
+      "current_speed": 29,
+      "average_speed": 45,
+      "congestion_level": 0.72,
+      "incidents": []
+    },
+    {
+      "segment_id": "SEG_027",
+      "current_speed": 52,
+      "average_speed": 50,
+      "congestion_level": 0.45,
+      "incidents": "road work"
+    },
+    {
+      "segment_id": "SEG_028",
+      "current_speed": 29,
+      "average_speed": 49,
+      "congestion_level": 0.4,
+      "incidents": []
+    },
+    {
+      "segment_id": "SEG_029",
+      "current_speed": 48,
+      "average_speed": 48,
+      "congestion_level": 0.29,
+      "incidents": "road work"
+    }
+  ],
+  "weather_conditions": {
+    "condition": "haze",
+    "visibility": "high",
+    "impact_on_delivery_time": 1.04
+  }
+}

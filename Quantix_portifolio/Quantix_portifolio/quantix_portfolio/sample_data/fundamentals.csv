@@ -1,0 +1,6 @@
+asset_id,ROA,CFO,Delta_ROA,Delta_Leverage,Delta_Liquidity,Equity_Issued,Delta_Margin,Delta_Turnover,CFO_gt_ROA
+ASSET_A,0.05,0.07,0.01,-0.02,0.1,0,0.015,0.05,1
+ASSET_B,-0.02,-0.01,-0.005,0.05,-0.05,1,-0.01,-0.02,1
+ASSET_C,0.08,0.06,0.02,-0.01,0.2,0,0.02,0.03,0
+ASSET_D,0.09,0.12,0.03,-0.03,0.15,0,0.025,0.06,1
+ASSET_E,-0.05,-0.08,-0.01,0.1,-0.1,1,-0.02,-0.03,0

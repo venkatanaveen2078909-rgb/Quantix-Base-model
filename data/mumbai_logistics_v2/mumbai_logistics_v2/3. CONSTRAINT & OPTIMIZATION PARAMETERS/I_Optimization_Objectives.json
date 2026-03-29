@@ -1,0 +1,16 @@
+{
+  "primary_objective": "minimize_total_cost",
+  "objective_weights": {
+    "distance_weight": 0.3,
+    "time_weight": 0.2,
+    "vehicle_cost_weight": 0.25,
+    "priority_weight": 0.15,
+    "congestion_weight": 0.1
+  },
+  "penalty_parameters": {
+    "late_delivery_penalty": 500,
+    "capacity_violation_penalty": 10000,
+    "time_window_violation_penalty": 1000,
+    "undelivered_order_penalty": 5000
+  }
+}

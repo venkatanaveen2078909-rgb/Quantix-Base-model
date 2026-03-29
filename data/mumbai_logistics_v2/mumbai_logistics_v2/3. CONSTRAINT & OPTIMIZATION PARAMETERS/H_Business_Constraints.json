@@ -1,0 +1,26 @@
+{
+  "capacity_constraints": {
+    "enforce_vehicle_weight_limit": true,
+    "enforce_vehicle_volume_limit": true,
+    "enforce_package_count_limit": true
+  },
+  "time_constraints": {
+    "enforce_time_windows": true,
+    "enforce_working_hours": true,
+    "max_route_duration": 720,
+    "buffer_time": 10
+  },
+  "route_constraints": {
+    "max_stops_per_route": 25,
+    "must_return_to_depot": true,
+    "allow_multiple_trips": true
+  },
+  "vehicle_constraints": {
+    "match_vehicle_capabilities": true,
+    "respect_access_restrictions": true
+  },
+  "priority_constraints": {
+    "prioritize_high_value_orders": true,
+    "penalty_for_missed_priority": 2000
+  }
+}

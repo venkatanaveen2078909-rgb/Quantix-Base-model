@@ -1,0 +1,30 @@
+{
+  "route_input": {
+    "nodes": ["Depot_NY", "WH_Jersey", "Store_A", "Store_B", "Store_C"],
+    "edges": [
+      ["Depot_NY", "WH_Jersey", 45.0],
+      ["WH_Jersey", "Store_A", 120.0],
+      ["WH_Jersey", "Store_B", 85.0],
+      ["Store_A", "Store_C", 50.0],
+      ["Store_B", "Store_C", 40.0],
+      ["Store_C", "Depot_NY", 180.0]
+    ],
+    "depot": "Depot_NY",
+    "traffic_scores": {"WH_Jersey": 0.3, "Store_A": 0.8, "Store_B": 0.2, "Store_C": 0.4},
+    "weather_scores": {"Store_A": 0.6, "Store_C": 0.1}
+  },
+  "supply_chain_input": {
+    "suppliers": ["GlobalLogistics_Inc", "CoastalTrucking_LLC"],
+    "supplier_reliability": {"GlobalLogistics_Inc": 0.95, "CoastalTrucking_LLC": 0.65},
+    "warehouse_stock": {"GlobalLogistics_Inc": 1000.0, "CoastalTrucking_LLC": 500.0},
+    "demand_forecasts": {"GlobalLogistics_Inc": 700.0, "CoastalTrucking_LLC": 350.0}
+  },
+  "cost_input": {
+    "fuel_cost_per_km": 0.85,
+    "driver_cost_per_hour": 35.0,
+    "warehouse_cost_per_day": 500.0,
+    "num_trucks": 2,
+    "truck_capacity": 500.0,
+    "delivery_loads": {"Store_A": 150.0, "Store_B": 120.0, "Store_C": 200.0}
+  }
+}

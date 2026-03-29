@@ -1,0 +1,145 @@
+c:\Users\papan\OneDrive\Desktop\supplychain\quantix\agents\analyzer_agent.py:3:1: E302 expected 2 blank lines, found 1
+c:\Users\papan\OneDrive\Desktop\supplychain\quantix\agents\analyzer_agent.py:9:1: W293 blank line contains whitespace
+c:\Users\papan\OneDrive\Desktop\supplychain\quantix\agents\analyzer_agent.py:11:1: W293 blank line contains whitespace
+c:\Users\papan\OneDrive\Desktop\supplychain\quantix\agents\analyzer_agent.py:13:1: W293 blank line contains whitespace
+c:\Users\papan\OneDrive\Desktop\supplychain\quantix\agents\analyzer_agent.py:19:1: W293 blank line contains whitespace
+c:\Users\papan\OneDrive\Desktop\supplychain\quantix\agents\constraint_encoder.py:3:1: E302 expected 2 blank lines, found 1
+c:\Users\papan\OneDrive\Desktop\supplychain\quantix\agents\constraint_encoder.py:7:80: E501 line too long (94 > 79 characters)
+c:\Users\papan\OneDrive\Desktop\supplychain\quantix\agents\constraint_encoder.py:9:9: F841 local variable 'constraints' is assigned to but never used
+c:\Users\papan\OneDrive\Desktop\supplychain\quantix\agents\constraint_encoder.py:11:1: W293 blank line contains whitespace
+c:\Users\papan\OneDrive\Desktop\supplychain\quantix\agents\constraint_encoder.py:17:1: W293 blank line contains whitespace
+c:\Users\papan\OneDrive\Desktop\supplychain\quantix\agents\constraint_encoder.py:18:35: F541 f-string is missing placeholders
+c:\Users\papan\OneDrive\Desktop\supplychain\quantix\agents\constraint_encoder.py:18:80: E501 line too long (93 > 79 characters)
+c:\Users\papan\OneDrive\Desktop\supplychain\quantix\agents\constraint_encoder.py:19:1: W293 blank line contains whitespace
+c:\Users\papan\OneDrive\Desktop\supplychain\quantix\agents\data_agent.py:4:1: E302 expected 2 blank lines, found 1
+c:\Users\papan\OneDrive\Desktop\supplychain\quantix\agents\data_agent.py:7:80: E501 line too long (87 > 79 characters)
+c:\Users\papan\OneDrive\Desktop\supplychain\quantix\agents\data_agent.py:11:1: W293 blank line contains whitespace
+c:\Users\papan\OneDrive\Desktop\supplychain\quantix\agents\data_agent.py:16:1: W293 blank line contains whitespace
+c:\Users\papan\OneDrive\Desktop\supplychain\quantix\agents\data_agent.py:19:80: E501 line too long (93 > 79 characters)
+c:\Users\papan\OneDrive\Desktop\supplychain\quantix\agents\data_agent.py:23:1: W293 blank line contains whitespace
+c:\Users\papan\OneDrive\Desktop\supplychain\quantix\agents\data_agent.py:28:1: W293 blank line contains whitespace
+c:\Users\papan\OneDrive\Desktop\supplychain\quantix\agents\data_agent.py:31:1: W293 blank line contains whitespace
+c:\Users\papan\OneDrive\Desktop\supplychain\quantix\agents\execution_agent.py:8:1: E302 expected 2 blank lines, found 1
+c:\Users\papan\OneDrive\Desktop\supplychain\quantix\agents\execution_agent.py:11:1: W293 blank line contains whitespace
+c:\Users\papan\OneDrive\Desktop\supplychain\quantix\agents\execution_agent.py:12:80: E501 line too long (115 > 79 characters)
+c:\Users\papan\OneDrive\Desktop\supplychain\quantix\agents\execution_agent.py:23:1: W293 blank line contains whitespace
+c:\Users\papan\OneDrive\Desktop\supplychain\quantix\agents\execution_agent.py:30:1: W293 blank line contains whitespace
+c:\Users\papan\OneDrive\Desktop\supplychain\quantix\agents\execution_agent.py:37:1: W293 blank line contains whitespace
+c:\Users\papan\OneDrive\Desktop\supplychain\quantix\agents\model_selector.py:3:1: E302 expected 2 blank lines, found 1
+c:\Users\papan\OneDrive\Desktop\supplychain\quantix\agents\model_selector.py:12:1: W293 blank line contains whitespace
+c:\Users\papan\OneDrive\Desktop\supplychain\quantix\agents\qubo_generator.py:7:1: E402 module level import not at top of file
+c:\Users\papan\OneDrive\Desktop\supplychain\quantix\agents\qubo_generator.py:9:1: E302 expected 2 blank lines, found 1
+c:\Users\papan\OneDrive\Desktop\supplychain\quantix\agents\qubo_generator.py:20:1: W293 blank line contains whitespace
+c:\Users\papan\OneDrive\Desktop\supplychain\quantix\agents\qubo_generator.py:22:1: W293 blank line contains whitespace
+c:\Users\papan\OneDrive\Desktop\supplychain\quantix\agents\qubo_generator.py:25:1: W293 blank line contains whitespace
+c:\Users\papan\OneDrive\Desktop\supplychain\quantix\agents\qubo_generator.py:34:1: W293 blank line contains whitespace
+c:\Users\papan\OneDrive\Desktop\supplychain\quantix\agents\qubo_generator.py:55:26: E111 indentation is not a multiple of 4
+c:\Users\papan\OneDrive\Desktop\supplychain\quantix\agents\qubo_generator.py:55:26: E117 over-indented
+c:\Users\papan\OneDrive\Desktop\supplychain\quantix\agents\qubo_generator.py:56:1: W293 blank line contains whitespace
+c:\Users\papan\OneDrive\Desktop\supplychain\quantix\agents\report_agent.py:3:1: E302 expected 2 blank lines, found 1
+c:\Users\papan\OneDrive\Desktop\supplychain\quantix\agents\report_agent.py:4:80: E501 line too long (82 > 79 characters)
+c:\Users\papan\OneDrive\Desktop\supplychain\quantix\agents\report_agent.py:11:1: W293 blank line contains whitespace
+c:\Users\papan\OneDrive\Desktop\supplychain\quantix\agents\report_agent.py:14:80: E501 line too long (85 > 79 characters)
+c:\Users\papan\OneDrive\Desktop\supplychain\quantix\agents\report_agent.py:15:1: W293 blank line contains whitespace
+c:\Users\papan\OneDrive\Desktop\supplychain\quantix\agents\report_agent.py:27:80: E501 line too long (216 > 79 characters)
+c:\Users\papan\OneDrive\Desktop\supplychain\quantix\agents\report_agent.py:30:1: W293 blank line contains whitespace
+c:\Users\papan\OneDrive\Desktop\supplychain\quantix\api\main.py:9:1: E402 module level import not at top of file
+c:\Users\papan\OneDrive\Desktop\supplychain\quantix\api\main.py:10:1: E402 module level import not at top of file
+c:\Users\papan\OneDrive\Desktop\supplychain\quantix\api\main.py:11:1: E402 module level import not at top of file
+c:\Users\papan\OneDrive\Desktop\supplychain\quantix\api\main.py:12:1: E402 module level import not at top of file
+c:\Users\papan\OneDrive\Desktop\supplychain\quantix\api\main.py:13:1: E402 module level import not at top of file
+c:\Users\papan\OneDrive\Desktop\supplychain\quantix\api\main.py:14:1: E402 module level import not at top of file
+c:\Users\papan\OneDrive\Desktop\supplychain\quantix\api\main.py:15:1: E402 module level import not at top of file
+c:\Users\papan\OneDrive\Desktop\supplychain\quantix\api\main.py:19:1: E302 expected 2 blank lines, found 1
+c:\Users\papan\OneDrive\Desktop\supplychain\quantix\api\main.py:23:1: E302 expected 2 blank lines, found 1
+c:\Users\papan\OneDrive\Desktop\supplychain\quantix\api\main.py:26:80: E501 line too long (93 > 79 characters)
+c:\Users\papan\OneDrive\Desktop\supplychain\quantix\api\main.py:27:1: W293 blank line contains whitespace
+c:\Users\papan\OneDrive\Desktop\supplychain\quantix\api\main.py:31:1: W293 blank line contains whitespace
+c:\Users\papan\OneDrive\Desktop\supplychain\quantix\api\main.py:35:1: W293 blank line contains whitespace
+c:\Users\papan\OneDrive\Desktop\supplychain\quantix\api\main.py:39:1: W293 blank line contains whitespace
+c:\Users\papan\OneDrive\Desktop\supplychain\quantix\api\main.py:43:1: W293 blank line contains whitespace
+c:\Users\papan\OneDrive\Desktop\supplychain\quantix\api\main.py:49:1: W293 blank line contains whitespace
+c:\Users\papan\OneDrive\Desktop\supplychain\quantix\api\main.py:52:80: E501 line too long (85 > 79 characters)
+c:\Users\papan\OneDrive\Desktop\supplychain\quantix\api\main.py:53:1: W293 blank line contains whitespace
+c:\Users\papan\OneDrive\Desktop\supplychain\quantix\api\main.py:57:1: W293 blank line contains whitespace
+c:\Users\papan\OneDrive\Desktop\supplychain\quantix\api\main.py:59:1: W293 blank line contains whitespace
+c:\Users\papan\OneDrive\Desktop\supplychain\quantix\solvers\annealer_solver.py:5:1: E302 expected 2 blank lines, found 1
+c:\Users\papan\OneDrive\Desktop\supplychain\quantix\solvers\annealer_solver.py:9:1: W293 blank line contains whitespace
+c:\Users\papan\OneDrive\Desktop\supplychain\quantix\solvers\annealer_solver.py:12:80: E501 line too long (84 > 79 characters)
+c:\Users\papan\OneDrive\Desktop\supplychain\quantix\solvers\annealer_solver.py:16:1: W293 blank line contains whitespace
+c:\Users\papan\OneDrive\Desktop\supplychain\quantix\solvers\annealer_solver.py:23:1: W293 blank line contains whitespace
+c:\Users\papan\OneDrive\Desktop\supplychain\quantix\solvers\annealer_solver.py:27:1: W293 blank line contains whitespace
+c:\Users\papan\OneDrive\Desktop\supplychain\quantix\solvers\annealer_solver.py:30:1: W293 blank line contains whitespace
+c:\Users\papan\OneDrive\Desktop\supplychain\quantix\solvers\annealer_solver.py:32:1: W293 blank line contains whitespace
+c:\Users\papan\OneDrive\Desktop\supplychain\quantix\solvers\annealer_solver.py:35:1: W293 blank line contains whitespace
+c:\Users\papan\OneDrive\Desktop\supplychain\quantix\solvers\classical_solver.py:6:1: E302 expected 2 blank lines, found 1
+c:\Users\papan\OneDrive\Desktop\supplychain\quantix\solvers\classical_solver.py:9:1: W293 blank line contains whitespace
+c:\Users\papan\OneDrive\Desktop\supplychain\quantix\solvers\classical_solver.py:10:80: E501 line too long (111 > 79 characters)
+c:\Users\papan\OneDrive\Desktop\supplychain\quantix\solvers\classical_solver.py:15:1: W293 blank line contains whitespace
+c:\Users\papan\OneDrive\Desktop\supplychain\quantix\solvers\classical_solver.py:17:80: E501 line too long (114 > 79 characters)
+c:\Users\papan\OneDrive\Desktop\supplychain\quantix\solvers\classical_solver.py:19:80: E501 line too long (93 > 79 characters)
+c:\Users\papan\OneDrive\Desktop\supplychain\quantix\solvers\classical_solver.py:27:80: E501 line too long (83 > 79 characters)
+c:\Users\papan\OneDrive\Desktop\supplychain\quantix\solvers\classical_solver.py:29:1: W293 blank line contains whitespace
+c:\Users\papan\OneDrive\Desktop\supplychain\quantix\solvers\classical_solver.py:33:15: W291 trailing whitespace
+c:\Users\papan\OneDrive\Desktop\supplychain\quantix\solvers\classical_solver.py:34:21: W291 trailing whitespace
+c:\Users\papan\OneDrive\Desktop\supplychain\quantix\solvers\classical_solver.py:35:18: W291 trailing whitespace
+c:\Users\papan\OneDrive\Desktop\supplychain\quantix\solvers\classical_solver.py:45:1: W293 blank line contains whitespace
+c:\Users\papan\OneDrive\Desktop\supplychain\quantix\solvers\classical_solver.py:49:80: E501 line too long (95 > 79 characters)
+c:\Users\papan\OneDrive\Desktop\supplychain\quantix\solvers\classical_solver.py:53:80: E501 line too long (104 > 79 characters)
+c:\Users\papan\OneDrive\Desktop\supplychain\quantix\solvers\classical_solver.py:64:80: E501 line too long (97 > 79 characters)
+c:\Users\papan\OneDrive\Desktop\supplychain\quantix\solvers\classical_solver.py:68:1: W293 blank line contains whitespace
+c:\Users\papan\OneDrive\Desktop\supplychain\quantix\solvers\qaoa_solver.py:5:1: E302 expected 2 blank lines, found 1
+c:\Users\papan\OneDrive\Desktop\supplychain\quantix\solvers\qaoa_solver.py:13:80: E501 line too long (80 > 79 characters)
+c:\Users\papan\OneDrive\Desktop\supplychain\quantix\solvers\qaoa_solver.py:15:1: W293 blank line contains whitespace
+c:\Users\papan\OneDrive\Desktop\supplychain\quantix\solvers\qaoa_solver.py:22:1: W293 blank line contains whitespace
+c:\Users\papan\OneDrive\Desktop\supplychain\quantix\solvers\qaoa_solver.py:25:1: W293 blank line contains whitespace
+c:\Users\papan\OneDrive\Desktop\supplychain\quantix\solvers\qaoa_solver.py:29:1: W293 blank line contains whitespace
+c:\Users\papan\OneDrive\Desktop\supplychain\quantix\solvers\qaoa_solver.py:33:1: W293 blank line contains whitespace
+c:\Users\papan\OneDrive\Desktop\supplychain\quantix\solvers\qaoa_solver.py:41:1: W293 blank line contains whitespace
+c:\Users\papan\OneDrive\Desktop\supplychain\quantix\solvers\qaoa_solver.py:43:1: W293 blank line contains whitespace
+c:\Users\papan\OneDrive\Desktop\supplychain\quantix\solvers\qaoa_solver.py:46:1: W293 blank line contains whitespace
+c:\Users\papan\OneDrive\Desktop\supplychain\quantix\solvers\qaoa_solver.py:49:1: W293 blank line contains whitespace
+c:\Users\papan\OneDrive\Desktop\supplychain\quantix\test_pipeline.py:4:1: F401 'time' imported but unused
+c:\Users\papan\OneDrive\Desktop\supplychain\quantix\test_pipeline.py:8:1: E402 module level import not at top of file
+c:\Users\papan\OneDrive\Desktop\supplychain\quantix\test_pipeline.py:9:1: E402 module level import not at top of file
+c:\Users\papan\OneDrive\Desktop\supplychain\quantix\test_pipeline.py:10:1: E402 module level import not at top of file
+c:\Users\papan\OneDrive\Desktop\supplychain\quantix\test_pipeline.py:11:1: E402 module level import not at top of file
+c:\Users\papan\OneDrive\Desktop\supplychain\quantix\test_pipeline.py:12:1: E402 module level import not at top of file
+c:\Users\papan\OneDrive\Desktop\supplychain\quantix\test_pipeline.py:13:1: E402 module level import not at top of file
+c:\Users\papan\OneDrive\Desktop\supplychain\quantix\test_pipeline.py:14:1: E402 module level import not at top of file
+c:\Users\papan\OneDrive\Desktop\supplychain\quantix\test_pipeline.py:16:1: E302 expected 2 blank lines, found 1
+c:\Users\papan\OneDrive\Desktop\supplychain\quantix\test_pipeline.py:21:1: W293 blank line contains whitespace
+c:\Users\papan\OneDrive\Desktop\supplychain\quantix\test_pipeline.py:24:1: W293 blank line contains whitespace
+c:\Users\papan\OneDrive\Desktop\supplychain\quantix\test_pipeline.py:26:1: W293 blank line contains whitespace
+c:\Users\papan\OneDrive\Desktop\supplychain\quantix\test_pipeline.py:31:1: W293 blank line contains whitespace
+c:\Users\papan\OneDrive\Desktop\supplychain\quantix\test_pipeline.py:37:1: W293 blank line contains whitespace
+c:\Users\papan\OneDrive\Desktop\supplychain\quantix\test_pipeline.py:42:1: W293 blank line contains whitespace
+c:\Users\papan\OneDrive\Desktop\supplychain\quantix\test_pipeline.py:47:1: W293 blank line contains whitespace
+c:\Users\papan\OneDrive\Desktop\supplychain\quantix\test_pipeline.py:56:1: W293 blank line contains whitespace
+c:\Users\papan\OneDrive\Desktop\supplychain\quantix\test_pipeline.py:59:80: E501 line too long (81 > 79 characters)
+c:\Users\papan\OneDrive\Desktop\supplychain\quantix\test_pipeline.py:61:1: W293 blank line contains whitespace
+c:\Users\papan\OneDrive\Desktop\supplychain\quantix\test_pipeline.py:65:1: W293 blank line contains whitespace
+c:\Users\papan\OneDrive\Desktop\supplychain\quantix\test_pipeline.py:69:1: E305 expected 2 blank lines after class or function definition, found 1
+c:\Users\papan\OneDrive\Desktop\supplychain\quantix\utils\graph_builder.py:4:1: E302 expected 2 blank lines, found 1
+c:\Users\papan\OneDrive\Desktop\supplychain\quantix\utils\graph_builder.py:6:80: E501 line too long (88 > 79 characters)
+c:\Users\papan\OneDrive\Desktop\supplychain\quantix\utils\graph_builder.py:11:1: W293 blank line contains whitespace
+c:\Users\papan\OneDrive\Desktop\supplychain\quantix\utils\graph_builder.py:14:80: E501 line too long (95 > 79 characters)
+c:\Users\papan\OneDrive\Desktop\supplychain\quantix\utils\graph_builder.py:15:1: W293 blank line contains whitespace
+c:\Users\papan\OneDrive\Desktop\supplychain\quantix\utils\graph_builder.py:18:80: E501 line too long (112 > 79 characters)
+c:\Users\papan\OneDrive\Desktop\supplychain\quantix\utils\graph_builder.py:19:1: W293 blank line contains whitespace
+c:\Users\papan\OneDrive\Desktop\supplychain\quantix\utils\graph_builder.py:22:1: E302 expected 2 blank lines, found 1
+c:\Users\papan\OneDrive\Desktop\supplychain\quantix\utils\graph_builder.py:29:1: W293 blank line contains whitespace
+c:\Users\papan\OneDrive\Desktop\supplychain\quantix\utils\graph_builder.py:32:1: W293 blank line contains whitespace
+c:\Users\papan\OneDrive\Desktop\supplychain\quantix\utils\graph_builder.py:39:1: W293 blank line contains whitespace
+c:\Users\papan\OneDrive\Desktop\supplychain\quantix\utils\qubo_utils.py:4:1: E302 expected 2 blank lines, found 1
+c:\Users\papan\OneDrive\Desktop\supplychain\quantix\utils\qubo_utils.py:10:1: E302 expected 2 blank lines, found 1
+c:\Users\papan\OneDrive\Desktop\supplychain\quantix\utils\qubo_utils.py:16:1: E302 expected 2 blank lines, found 1
+c:\Users\papan\OneDrive\Desktop\supplychain\quantix\utils\qubo_utils.py:16:80: E501 line too long (84 > 79 characters)
+c:\Users\papan\OneDrive\Desktop\supplychain\quantix\utils\qubo_utils.py:26:1: E302 expected 2 blank lines, found 1
+c:\Users\papan\OneDrive\Desktop\supplychain\quantix\utils\qubo_utils.py:26:80: E501 line too long (89 > 79 characters)
+c:\Users\papan\OneDrive\Desktop\supplychain\quantix\utils\qubo_utils.py:35:14: E111 indentation is not a multiple of 4
+c:\Users\papan\OneDrive\Desktop\supplychain\quantix\utils\qubo_utils.py:35:14: E117 over-indented
+c:\Users\papan\OneDrive\Desktop\supplychain\quantix\utils\qubo_utils.py:37:14: E111 indentation is not a multiple of 4
+c:\Users\papan\OneDrive\Desktop\supplychain\quantix\utils\qubo_utils.py:37:14: E117 over-indented
+c:\Users\papan\OneDrive\Desktop\supplychain\quantix\utils\qubo_utils.py:40:1: E302 expected 2 blank lines, found 1
+c:\Users\papan\OneDrive\Desktop\supplychain\quantix\utils\qubo_utils.py:42:80: E501 line too long (80 > 79 characters)

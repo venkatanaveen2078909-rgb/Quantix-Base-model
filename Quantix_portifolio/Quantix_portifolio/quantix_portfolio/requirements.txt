@@ -1,0 +1,15 @@
+# Core Dependencies
+fastapi
+uvicorn[standard]
+pandas
+numpy
+scipy
+pydantic
+pytest
+
+# Quantum (Optional)
+# Install these if you have the appropriate access keys and environment.
+# See README.md for more details.
+# qiskit
+# dimod
+# dwave-neal

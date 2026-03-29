@@ -1,0 +1,21 @@
+Node_ID,Node_Name,Latitude,Longitude,Demand,Node_Type
+N001,Warehouse,16.503,80.648,0,Depot
+N002,Retail Outlet A,16.510,80.652,20,Retail
+N003,Retail Outlet B,16.515,80.655,25,Retail
+N004,Supplier X,16.498,80.640,0,Supplier
+N005,Supplier Y,16.490,80.635,0,Supplier
+N006,Distribution Center,16.520,80.660,50,Distribution
+N007,Distribution Center,16.530,80.670,45,Distribution
+N008,Client Location A,16.505,80.645,30,Client
+N009,Client Location B,16.495,80.638,35,Client
+N010,Client Location C,16.485,80.630,40,Client
+N011,Pickup Point A,16.540,80.675,15,Pickup
+N012,Pickup Point B,16.545,80.680,18,Pickup
+N013,Drop Point A,16.550,80.685,22,Drop
+N014,Drop Point B,16.555,80.690,28,Drop
+N015,Drop Point C,16.560,80.695,32,Drop
+N016,Micro Hub A,16.470,80.620,10,Micro Hub
+N017,Micro Hub B,16.465,80.615,12,Micro Hub
+N018,Urban Hub A,16.460,80.610,20,Urban Hub
+N019,Urban Hub B,16.455,80.605,25,Urban Hub
+N020,Urban Hub C,16.450,80.600,30,Urban Hub

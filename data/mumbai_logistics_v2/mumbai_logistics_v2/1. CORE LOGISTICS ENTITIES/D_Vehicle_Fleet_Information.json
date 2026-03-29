@@ -1,0 +1,5402 @@
+[
+  {
+    "vehicle_id": "VEH_001",
+    "vehicle_type": "two_wheeler",
+    "registration_number": "MH32BL1716",
+    "capacity": {
+      "max_weight": 30,
+      "max_volume": 0.3,
+      "max_packages": 5
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": true,
+      "can_access_narrow_streets": true
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 300,
+      "cost_per_km": 4,
+      "cost_per_hour": 50
+    },
+    "availability": {
+      "start_time": "07:00",
+      "end_time": "20:00",
+      "max_working_hours": 10
+    },
+    "current_status": "on_route",
+    "assigned_zone": "Thane"
+  },
+  {
+    "vehicle_id": "VEH_002",
+    "vehicle_type": "small_van",
+    "registration_number": "MH40BW7599",
+    "capacity": {
+      "max_weight": 500,
+      "max_volume": 5,
+      "max_packages": 30
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": true,
+      "can_access_narrow_streets": true
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 1500,
+      "cost_per_km": 12,
+      "cost_per_hour": 150
+    },
+    "availability": {
+      "start_time": "06:00",
+      "end_time": "21:00",
+      "max_working_hours": 10
+    },
+    "current_status": "on_route",
+    "assigned_zone": "Thane"
+  },
+  {
+    "vehicle_id": "VEH_003",
+    "vehicle_type": "two_wheeler",
+    "registration_number": "MH24NK4160",
+    "capacity": {
+      "max_weight": 30,
+      "max_volume": 0.3,
+      "max_packages": 5
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": true,
+      "can_access_narrow_streets": true
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 300,
+      "cost_per_km": 4,
+      "cost_per_hour": 50
+    },
+    "availability": {
+      "start_time": "07:00",
+      "end_time": "20:00",
+      "max_working_hours": 10
+    },
+    "current_status": "on_route",
+    "assigned_zone": "Thane"
+  },
+  {
+    "vehicle_id": "VEH_004",
+    "vehicle_type": "medium_truck",
+    "registration_number": "MH18VT7714",
+    "capacity": {
+      "max_weight": 2000,
+      "max_volume": 20,
+      "max_packages": 100
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": false,
+      "can_access_narrow_streets": false
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 4000,
+      "cost_per_km": 22,
+      "cost_per_hour": 300
+    },
+    "availability": {
+      "start_time": "05:00",
+      "end_time": "22:00",
+      "max_working_hours": 12
+    },
+    "current_status": "on_route",
+    "assigned_zone": "South Mumbai"
+  },
+  {
+    "vehicle_id": "VEH_005",
+    "vehicle_type": "two_wheeler",
+    "registration_number": "MH21GZ9133",
+    "capacity": {
+      "max_weight": 30,
+      "max_volume": 0.3,
+      "max_packages": 5
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": true,
+      "can_access_narrow_streets": true
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 300,
+      "cost_per_km": 4,
+      "cost_per_hour": 50
+    },
+    "availability": {
+      "start_time": "07:00",
+      "end_time": "20:00",
+      "max_working_hours": 10
+    },
+    "current_status": "available",
+    "assigned_zone": "South Mumbai"
+  },
+  {
+    "vehicle_id": "VEH_006",
+    "vehicle_type": "mini_truck",
+    "registration_number": "MH07KW9274",
+    "capacity": {
+      "max_weight": 800,
+      "max_volume": 8,
+      "max_packages": 50
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": true,
+      "can_access_narrow_streets": true
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 2500,
+      "cost_per_km": 16,
+      "cost_per_hour": 200
+    },
+    "availability": {
+      "start_time": "06:00",
+      "end_time": "21:00",
+      "max_working_hours": 11
+    },
+    "current_status": "available",
+    "assigned_zone": "Eastern Suburbs"
+  },
+  {
+    "vehicle_id": "VEH_007",
+    "vehicle_type": "medium_truck",
+    "registration_number": "MH28FF8027",
+    "capacity": {
+      "max_weight": 2000,
+      "max_volume": 20,
+      "max_packages": 100
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": false,
+      "can_access_narrow_streets": false
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 4000,
+      "cost_per_km": 22,
+      "cost_per_hour": 300
+    },
+    "availability": {
+      "start_time": "05:00",
+      "end_time": "22:00",
+      "max_working_hours": 12
+    },
+    "current_status": "available",
+    "assigned_zone": "Thane"
+  },
+  {
+    "vehicle_id": "VEH_008",
+    "vehicle_type": "small_van",
+    "registration_number": "MH08EY7618",
+    "capacity": {
+      "max_weight": 500,
+      "max_volume": 5,
+      "max_packages": 30
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": true,
+      "can_access_narrow_streets": true
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 1500,
+      "cost_per_km": 12,
+      "cost_per_hour": 150
+    },
+    "availability": {
+      "start_time": "06:00",
+      "end_time": "21:00",
+      "max_working_hours": 10
+    },
+    "current_status": "available",
+    "assigned_zone": "South Mumbai"
+  },
+  {
+    "vehicle_id": "VEH_009",
+    "vehicle_type": "small_van",
+    "registration_number": "MH37CL6343",
+    "capacity": {
+      "max_weight": 500,
+      "max_volume": 5,
+      "max_packages": 30
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": true,
+      "can_access_narrow_streets": true
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 1500,
+      "cost_per_km": 12,
+      "cost_per_hour": 150
+    },
+    "availability": {
+      "start_time": "06:00",
+      "end_time": "21:00",
+      "max_working_hours": 10
+    },
+    "current_status": "available",
+    "assigned_zone": "Central Mumbai"
+  },
+  {
+    "vehicle_id": "VEH_010",
+    "vehicle_type": "medium_truck",
+    "registration_number": "MH49LC9609",
+    "capacity": {
+      "max_weight": 2000,
+      "max_volume": 20,
+      "max_packages": 100
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": false,
+      "can_access_narrow_streets": false
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 4000,
+      "cost_per_km": 22,
+      "cost_per_hour": 300
+    },
+    "availability": {
+      "start_time": "05:00",
+      "end_time": "22:00",
+      "max_working_hours": 12
+    },
+    "current_status": "available",
+    "assigned_zone": "Eastern Suburbs"
+  },
+  {
+    "vehicle_id": "VEH_011",
+    "vehicle_type": "small_van",
+    "registration_number": "MH15VZ9637",
+    "capacity": {
+      "max_weight": 500,
+      "max_volume": 5,
+      "max_packages": 30
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": true,
+      "can_access_narrow_streets": true
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 1500,
+      "cost_per_km": 12,
+      "cost_per_hour": 150
+    },
+    "availability": {
+      "start_time": "06:00",
+      "end_time": "21:00",
+      "max_working_hours": 10
+    },
+    "current_status": "available",
+    "assigned_zone": "South Mumbai"
+  },
+  {
+    "vehicle_id": "VEH_012",
+    "vehicle_type": "small_van",
+    "registration_number": "MH49FP9134",
+    "capacity": {
+      "max_weight": 500,
+      "max_volume": 5,
+      "max_packages": 30
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": true,
+      "can_access_narrow_streets": true
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 1500,
+      "cost_per_km": 12,
+      "cost_per_hour": 150
+    },
+    "availability": {
+      "start_time": "06:00",
+      "end_time": "21:00",
+      "max_working_hours": 10
+    },
+    "current_status": "available",
+    "assigned_zone": "South Mumbai"
+  },
+  {
+    "vehicle_id": "VEH_013",
+    "vehicle_type": "reefer_van",
+    "registration_number": "MH21GD7385",
+    "capacity": {
+      "max_weight": 1000,
+      "max_volume": 10,
+      "max_packages": 50
+    },
+    "capabilities": {
+      "temperature_controlled": true,
+      "fragile_handling": true,
+      "can_access_narrow_streets": false
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 5000,
+      "cost_per_km": 28,
+      "cost_per_hour": 400
+    },
+    "availability": {
+      "start_time": "04:00",
+      "end_time": "22:00",
+      "max_working_hours": 10
+    },
+    "current_status": "available",
+    "assigned_zone": "Central Mumbai"
+  },
+  {
+    "vehicle_id": "VEH_014",
+    "vehicle_type": "two_wheeler",
+    "registration_number": "MH32HA1511",
+    "capacity": {
+      "max_weight": 30,
+      "max_volume": 0.3,
+      "max_packages": 5
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": true,
+      "can_access_narrow_streets": true
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 300,
+      "cost_per_km": 4,
+      "cost_per_hour": 50
+    },
+    "availability": {
+      "start_time": "07:00",
+      "end_time": "20:00",
+      "max_working_hours": 10
+    },
+    "current_status": "available",
+    "assigned_zone": "North Mumbai"
+  },
+  {
+    "vehicle_id": "VEH_015",
+    "vehicle_type": "reefer_van",
+    "registration_number": "MH41PV3595",
+    "capacity": {
+      "max_weight": 1000,
+      "max_volume": 10,
+      "max_packages": 50
+    },
+    "capabilities": {
+      "temperature_controlled": true,
+      "fragile_handling": true,
+      "can_access_narrow_streets": false
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 5000,
+      "cost_per_km": 28,
+      "cost_per_hour": 400
+    },
+    "availability": {
+      "start_time": "04:00",
+      "end_time": "22:00",
+      "max_working_hours": 10
+    },
+    "current_status": "on_route",
+    "assigned_zone": "Thane"
+  },
+  {
+    "vehicle_id": "VEH_016",
+    "vehicle_type": "medium_truck",
+    "registration_number": "MH12QP8032",
+    "capacity": {
+      "max_weight": 2000,
+      "max_volume": 20,
+      "max_packages": 100
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": false,
+      "can_access_narrow_streets": false
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 4000,
+      "cost_per_km": 22,
+      "cost_per_hour": 300
+    },
+    "availability": {
+      "start_time": "05:00",
+      "end_time": "22:00",
+      "max_working_hours": 12
+    },
+    "current_status": "available",
+    "assigned_zone": "South Mumbai"
+  },
+  {
+    "vehicle_id": "VEH_017",
+    "vehicle_type": "two_wheeler",
+    "registration_number": "MH20ZU7499",
+    "capacity": {
+      "max_weight": 30,
+      "max_volume": 0.3,
+      "max_packages": 5
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": true,
+      "can_access_narrow_streets": true
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 300,
+      "cost_per_km": 4,
+      "cost_per_hour": 50
+    },
+    "availability": {
+      "start_time": "07:00",
+      "end_time": "20:00",
+      "max_working_hours": 10
+    },
+    "current_status": "available",
+    "assigned_zone": "South Mumbai"
+  },
+  {
+    "vehicle_id": "VEH_018",
+    "vehicle_type": "small_van",
+    "registration_number": "MH06RZ9344",
+    "capacity": {
+      "max_weight": 500,
+      "max_volume": 5,
+      "max_packages": 30
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": true,
+      "can_access_narrow_streets": true
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 1500,
+      "cost_per_km": 12,
+      "cost_per_hour": 150
+    },
+    "availability": {
+      "start_time": "06:00",
+      "end_time": "21:00",
+      "max_working_hours": 10
+    },
+    "current_status": "available",
+    "assigned_zone": "Navi Mumbai"
+  },
+  {
+    "vehicle_id": "VEH_019",
+    "vehicle_type": "reefer_van",
+    "registration_number": "MH34CY1253",
+    "capacity": {
+      "max_weight": 1000,
+      "max_volume": 10,
+      "max_packages": 50
+    },
+    "capabilities": {
+      "temperature_controlled": true,
+      "fragile_handling": true,
+      "can_access_narrow_streets": false
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 5000,
+      "cost_per_km": 28,
+      "cost_per_hour": 400
+    },
+    "availability": {
+      "start_time": "04:00",
+      "end_time": "22:00",
+      "max_working_hours": 10
+    },
+    "current_status": "on_route",
+    "assigned_zone": "Western Suburbs"
+  },
+  {
+    "vehicle_id": "VEH_020",
+    "vehicle_type": "small_van",
+    "registration_number": "MH03FE1948",
+    "capacity": {
+      "max_weight": 500,
+      "max_volume": 5,
+      "max_packages": 30
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": true,
+      "can_access_narrow_streets": true
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 1500,
+      "cost_per_km": 12,
+      "cost_per_hour": 150
+    },
+    "availability": {
+      "start_time": "06:00",
+      "end_time": "21:00",
+      "max_working_hours": 10
+    },
+    "current_status": "maintenance",
+    "assigned_zone": "Navi Mumbai"
+  },
+  {
+    "vehicle_id": "VEH_021",
+    "vehicle_type": "mini_truck",
+    "registration_number": "MH19SD3132",
+    "capacity": {
+      "max_weight": 800,
+      "max_volume": 8,
+      "max_packages": 50
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": true,
+      "can_access_narrow_streets": true
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 2500,
+      "cost_per_km": 16,
+      "cost_per_hour": 200
+    },
+    "availability": {
+      "start_time": "06:00",
+      "end_time": "21:00",
+      "max_working_hours": 11
+    },
+    "current_status": "available",
+    "assigned_zone": "Central Mumbai"
+  },
+  {
+    "vehicle_id": "VEH_022",
+    "vehicle_type": "medium_truck",
+    "registration_number": "MH04ND5494",
+    "capacity": {
+      "max_weight": 2000,
+      "max_volume": 20,
+      "max_packages": 100
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": false,
+      "can_access_narrow_streets": false
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 4000,
+      "cost_per_km": 22,
+      "cost_per_hour": 300
+    },
+    "availability": {
+      "start_time": "05:00",
+      "end_time": "22:00",
+      "max_working_hours": 12
+    },
+    "current_status": "maintenance",
+    "assigned_zone": "South Mumbai"
+  },
+  {
+    "vehicle_id": "VEH_023",
+    "vehicle_type": "mini_truck",
+    "registration_number": "MH24MS3642",
+    "capacity": {
+      "max_weight": 800,
+      "max_volume": 8,
+      "max_packages": 50
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": true,
+      "can_access_narrow_streets": true
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 2500,
+      "cost_per_km": 16,
+      "cost_per_hour": 200
+    },
+    "availability": {
+      "start_time": "06:00",
+      "end_time": "21:00",
+      "max_working_hours": 11
+    },
+    "current_status": "maintenance",
+    "assigned_zone": "Virar-Vasai"
+  },
+  {
+    "vehicle_id": "VEH_024",
+    "vehicle_type": "small_van",
+    "registration_number": "MH19DE5840",
+    "capacity": {
+      "max_weight": 500,
+      "max_volume": 5,
+      "max_packages": 30
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": true,
+      "can_access_narrow_streets": true
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 1500,
+      "cost_per_km": 12,
+      "cost_per_hour": 150
+    },
+    "availability": {
+      "start_time": "06:00",
+      "end_time": "21:00",
+      "max_working_hours": 10
+    },
+    "current_status": "on_route",
+    "assigned_zone": "Western Suburbs"
+  },
+  {
+    "vehicle_id": "VEH_025",
+    "vehicle_type": "two_wheeler",
+    "registration_number": "MH11GE3752",
+    "capacity": {
+      "max_weight": 30,
+      "max_volume": 0.3,
+      "max_packages": 5
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": true,
+      "can_access_narrow_streets": true
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 300,
+      "cost_per_km": 4,
+      "cost_per_hour": 50
+    },
+    "availability": {
+      "start_time": "07:00",
+      "end_time": "20:00",
+      "max_working_hours": 10
+    },
+    "current_status": "available",
+    "assigned_zone": "Virar-Vasai"
+  },
+  {
+    "vehicle_id": "VEH_026",
+    "vehicle_type": "small_van",
+    "registration_number": "MH43CC9770",
+    "capacity": {
+      "max_weight": 500,
+      "max_volume": 5,
+      "max_packages": 30
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": true,
+      "can_access_narrow_streets": true
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 1500,
+      "cost_per_km": 12,
+      "cost_per_hour": 150
+    },
+    "availability": {
+      "start_time": "06:00",
+      "end_time": "21:00",
+      "max_working_hours": 10
+    },
+    "current_status": "available",
+    "assigned_zone": "North Mumbai"
+  },
+  {
+    "vehicle_id": "VEH_027",
+    "vehicle_type": "two_wheeler",
+    "registration_number": "MH38KE7560",
+    "capacity": {
+      "max_weight": 30,
+      "max_volume": 0.3,
+      "max_packages": 5
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": true,
+      "can_access_narrow_streets": true
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 300,
+      "cost_per_km": 4,
+      "cost_per_hour": 50
+    },
+    "availability": {
+      "start_time": "07:00",
+      "end_time": "20:00",
+      "max_working_hours": 10
+    },
+    "current_status": "available",
+    "assigned_zone": "Virar-Vasai"
+  },
+  {
+    "vehicle_id": "VEH_028",
+    "vehicle_type": "small_van",
+    "registration_number": "MH48YE9895",
+    "capacity": {
+      "max_weight": 500,
+      "max_volume": 5,
+      "max_packages": 30
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": true,
+      "can_access_narrow_streets": true
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 1500,
+      "cost_per_km": 12,
+      "cost_per_hour": 150
+    },
+    "availability": {
+      "start_time": "06:00",
+      "end_time": "21:00",
+      "max_working_hours": 10
+    },
+    "current_status": "available",
+    "assigned_zone": "Central Mumbai"
+  },
+  {
+    "vehicle_id": "VEH_029",
+    "vehicle_type": "mini_truck",
+    "registration_number": "MH06XC3091",
+    "capacity": {
+      "max_weight": 800,
+      "max_volume": 8,
+      "max_packages": 50
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": true,
+      "can_access_narrow_streets": true
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 2500,
+      "cost_per_km": 16,
+      "cost_per_hour": 200
+    },
+    "availability": {
+      "start_time": "06:00",
+      "end_time": "21:00",
+      "max_working_hours": 11
+    },
+    "current_status": "maintenance",
+    "assigned_zone": "Central Mumbai"
+  },
+  {
+    "vehicle_id": "VEH_030",
+    "vehicle_type": "two_wheeler",
+    "registration_number": "MH16XS8660",
+    "capacity": {
+      "max_weight": 30,
+      "max_volume": 0.3,
+      "max_packages": 5
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": true,
+      "can_access_narrow_streets": true
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 300,
+      "cost_per_km": 4,
+      "cost_per_hour": 50
+    },
+    "availability": {
+      "start_time": "07:00",
+      "end_time": "20:00",
+      "max_working_hours": 10
+    },
+    "current_status": "available",
+    "assigned_zone": "Virar-Vasai"
+  },
+  {
+    "vehicle_id": "VEH_031",
+    "vehicle_type": "mini_truck",
+    "registration_number": "MH18GQ6279",
+    "capacity": {
+      "max_weight": 800,
+      "max_volume": 8,
+      "max_packages": 50
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": true,
+      "can_access_narrow_streets": true
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 2500,
+      "cost_per_km": 16,
+      "cost_per_hour": 200
+    },
+    "availability": {
+      "start_time": "06:00",
+      "end_time": "21:00",
+      "max_working_hours": 11
+    },
+    "current_status": "available",
+    "assigned_zone": "North Mumbai"
+  },
+  {
+    "vehicle_id": "VEH_032",
+    "vehicle_type": "large_truck",
+    "registration_number": "MH03YA3706",
+    "capacity": {
+      "max_weight": 8000,
+      "max_volume": 80,
+      "max_packages": 300
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": false,
+      "can_access_narrow_streets": false
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 8000,
+      "cost_per_km": 40,
+      "cost_per_hour": 500
+    },
+    "availability": {
+      "start_time": "05:00",
+      "end_time": "23:00",
+      "max_working_hours": 14
+    },
+    "current_status": "available",
+    "assigned_zone": "Western Suburbs"
+  },
+  {
+    "vehicle_id": "VEH_033",
+    "vehicle_type": "two_wheeler",
+    "registration_number": "MH46LB8334",
+    "capacity": {
+      "max_weight": 30,
+      "max_volume": 0.3,
+      "max_packages": 5
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": true,
+      "can_access_narrow_streets": true
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 300,
+      "cost_per_km": 4,
+      "cost_per_hour": 50
+    },
+    "availability": {
+      "start_time": "07:00",
+      "end_time": "20:00",
+      "max_working_hours": 10
+    },
+    "current_status": "available",
+    "assigned_zone": "North Mumbai"
+  },
+  {
+    "vehicle_id": "VEH_034",
+    "vehicle_type": "small_van",
+    "registration_number": "MH37PH3191",
+    "capacity": {
+      "max_weight": 500,
+      "max_volume": 5,
+      "max_packages": 30
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": true,
+      "can_access_narrow_streets": true
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 1500,
+      "cost_per_km": 12,
+      "cost_per_hour": 150
+    },
+    "availability": {
+      "start_time": "06:00",
+      "end_time": "21:00",
+      "max_working_hours": 10
+    },
+    "current_status": "on_route",
+    "assigned_zone": "Western Suburbs"
+  },
+  {
+    "vehicle_id": "VEH_035",
+    "vehicle_type": "two_wheeler",
+    "registration_number": "MH42BH4450",
+    "capacity": {
+      "max_weight": 30,
+      "max_volume": 0.3,
+      "max_packages": 5
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": true,
+      "can_access_narrow_streets": true
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 300,
+      "cost_per_km": 4,
+      "cost_per_hour": 50
+    },
+    "availability": {
+      "start_time": "07:00",
+      "end_time": "20:00",
+      "max_working_hours": 10
+    },
+    "current_status": "available",
+    "assigned_zone": "Western Suburbs"
+  },
+  {
+    "vehicle_id": "VEH_036",
+    "vehicle_type": "large_truck",
+    "registration_number": "MH14QA4621",
+    "capacity": {
+      "max_weight": 8000,
+      "max_volume": 80,
+      "max_packages": 300
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": false,
+      "can_access_narrow_streets": false
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 8000,
+      "cost_per_km": 40,
+      "cost_per_hour": 500
+    },
+    "availability": {
+      "start_time": "05:00",
+      "end_time": "23:00",
+      "max_working_hours": 14
+    },
+    "current_status": "on_route",
+    "assigned_zone": "North Mumbai"
+  },
+  {
+    "vehicle_id": "VEH_037",
+    "vehicle_type": "two_wheeler",
+    "registration_number": "MH42RM9942",
+    "capacity": {
+      "max_weight": 30,
+      "max_volume": 0.3,
+      "max_packages": 5
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": true,
+      "can_access_narrow_streets": true
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 300,
+      "cost_per_km": 4,
+      "cost_per_hour": 50
+    },
+    "availability": {
+      "start_time": "07:00",
+      "end_time": "20:00",
+      "max_working_hours": 10
+    },
+    "current_status": "available",
+    "assigned_zone": "Virar-Vasai"
+  },
+  {
+    "vehicle_id": "VEH_038",
+    "vehicle_type": "mini_truck",
+    "registration_number": "MH04CZ6727",
+    "capacity": {
+      "max_weight": 800,
+      "max_volume": 8,
+      "max_packages": 50
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": true,
+      "can_access_narrow_streets": true
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 2500,
+      "cost_per_km": 16,
+      "cost_per_hour": 200
+    },
+    "availability": {
+      "start_time": "06:00",
+      "end_time": "21:00",
+      "max_working_hours": 11
+    },
+    "current_status": "maintenance",
+    "assigned_zone": "North Mumbai"
+  },
+  {
+    "vehicle_id": "VEH_039",
+    "vehicle_type": "small_van",
+    "registration_number": "MH04YT9420",
+    "capacity": {
+      "max_weight": 500,
+      "max_volume": 5,
+      "max_packages": 30
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": true,
+      "can_access_narrow_streets": true
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 1500,
+      "cost_per_km": 12,
+      "cost_per_hour": 150
+    },
+    "availability": {
+      "start_time": "06:00",
+      "end_time": "21:00",
+      "max_working_hours": 10
+    },
+    "current_status": "available",
+    "assigned_zone": "Virar-Vasai"
+  },
+  {
+    "vehicle_id": "VEH_040",
+    "vehicle_type": "small_van",
+    "registration_number": "MH48LK6501",
+    "capacity": {
+      "max_weight": 500,
+      "max_volume": 5,
+      "max_packages": 30
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": true,
+      "can_access_narrow_streets": true
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 1500,
+      "cost_per_km": 12,
+      "cost_per_hour": 150
+    },
+    "availability": {
+      "start_time": "06:00",
+      "end_time": "21:00",
+      "max_working_hours": 10
+    },
+    "current_status": "on_route",
+    "assigned_zone": "Central Mumbai"
+  },
+  {
+    "vehicle_id": "VEH_041",
+    "vehicle_type": "small_van",
+    "registration_number": "MH21PG6576",
+    "capacity": {
+      "max_weight": 500,
+      "max_volume": 5,
+      "max_packages": 30
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": true,
+      "can_access_narrow_streets": true
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 1500,
+      "cost_per_km": 12,
+      "cost_per_hour": 150
+    },
+    "availability": {
+      "start_time": "06:00",
+      "end_time": "21:00",
+      "max_working_hours": 10
+    },
+    "current_status": "available",
+    "assigned_zone": "Navi Mumbai"
+  },
+  {
+    "vehicle_id": "VEH_042",
+    "vehicle_type": "reefer_van",
+    "registration_number": "MH46DU4568",
+    "capacity": {
+      "max_weight": 1000,
+      "max_volume": 10,
+      "max_packages": 50
+    },
+    "capabilities": {
+      "temperature_controlled": true,
+      "fragile_handling": true,
+      "can_access_narrow_streets": false
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 5000,
+      "cost_per_km": 28,
+      "cost_per_hour": 400
+    },
+    "availability": {
+      "start_time": "04:00",
+      "end_time": "22:00",
+      "max_working_hours": 10
+    },
+    "current_status": "on_route",
+    "assigned_zone": "South Mumbai"
+  },
+  {
+    "vehicle_id": "VEH_043",
+    "vehicle_type": "mini_truck",
+    "registration_number": "MH43PX4841",
+    "capacity": {
+      "max_weight": 800,
+      "max_volume": 8,
+      "max_packages": 50
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": true,
+      "can_access_narrow_streets": true
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 2500,
+      "cost_per_km": 16,
+      "cost_per_hour": 200
+    },
+    "availability": {
+      "start_time": "06:00",
+      "end_time": "21:00",
+      "max_working_hours": 11
+    },
+    "current_status": "available",
+    "assigned_zone": "North Mumbai"
+  },
+  {
+    "vehicle_id": "VEH_044",
+    "vehicle_type": "reefer_van",
+    "registration_number": "MH49SK3098",
+    "capacity": {
+      "max_weight": 1000,
+      "max_volume": 10,
+      "max_packages": 50
+    },
+    "capabilities": {
+      "temperature_controlled": true,
+      "fragile_handling": true,
+      "can_access_narrow_streets": false
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 5000,
+      "cost_per_km": 28,
+      "cost_per_hour": 400
+    },
+    "availability": {
+      "start_time": "04:00",
+      "end_time": "22:00",
+      "max_working_hours": 10
+    },
+    "current_status": "available",
+    "assigned_zone": "South Mumbai"
+  },
+  {
+    "vehicle_id": "VEH_045",
+    "vehicle_type": "small_van",
+    "registration_number": "MH16VF1437",
+    "capacity": {
+      "max_weight": 500,
+      "max_volume": 5,
+      "max_packages": 30
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": true,
+      "can_access_narrow_streets": true
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 1500,
+      "cost_per_km": 12,
+      "cost_per_hour": 150
+    },
+    "availability": {
+      "start_time": "06:00",
+      "end_time": "21:00",
+      "max_working_hours": 10
+    },
+    "current_status": "available",
+    "assigned_zone": "South Mumbai"
+  },
+  {
+    "vehicle_id": "VEH_046",
+    "vehicle_type": "two_wheeler",
+    "registration_number": "MH27TA2933",
+    "capacity": {
+      "max_weight": 30,
+      "max_volume": 0.3,
+      "max_packages": 5
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": true,
+      "can_access_narrow_streets": true
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 300,
+      "cost_per_km": 4,
+      "cost_per_hour": 50
+    },
+    "availability": {
+      "start_time": "07:00",
+      "end_time": "20:00",
+      "max_working_hours": 10
+    },
+    "current_status": "maintenance",
+    "assigned_zone": "Thane"
+  },
+  {
+    "vehicle_id": "VEH_047",
+    "vehicle_type": "small_van",
+    "registration_number": "MH24NN3265",
+    "capacity": {
+      "max_weight": 500,
+      "max_volume": 5,
+      "max_packages": 30
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": true,
+      "can_access_narrow_streets": true
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 1500,
+      "cost_per_km": 12,
+      "cost_per_hour": 150
+    },
+    "availability": {
+      "start_time": "06:00",
+      "end_time": "21:00",
+      "max_working_hours": 10
+    },
+    "current_status": "on_route",
+    "assigned_zone": "Western Suburbs"
+  },
+  {
+    "vehicle_id": "VEH_048",
+    "vehicle_type": "two_wheeler",
+    "registration_number": "MH19FV1164",
+    "capacity": {
+      "max_weight": 30,
+      "max_volume": 0.3,
+      "max_packages": 5
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": true,
+      "can_access_narrow_streets": true
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 300,
+      "cost_per_km": 4,
+      "cost_per_hour": 50
+    },
+    "availability": {
+      "start_time": "07:00",
+      "end_time": "20:00",
+      "max_working_hours": 10
+    },
+    "current_status": "available",
+    "assigned_zone": "Western Suburbs"
+  },
+  {
+    "vehicle_id": "VEH_049",
+    "vehicle_type": "large_truck",
+    "registration_number": "MH06CD8913",
+    "capacity": {
+      "max_weight": 8000,
+      "max_volume": 80,
+      "max_packages": 300
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": false,
+      "can_access_narrow_streets": false
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 8000,
+      "cost_per_km": 40,
+      "cost_per_hour": 500
+    },
+    "availability": {
+      "start_time": "05:00",
+      "end_time": "23:00",
+      "max_working_hours": 14
+    },
+    "current_status": "available",
+    "assigned_zone": "Navi Mumbai"
+  },
+  {
+    "vehicle_id": "VEH_050",
+    "vehicle_type": "small_van",
+    "registration_number": "MH03QQ9177",
+    "capacity": {
+      "max_weight": 500,
+      "max_volume": 5,
+      "max_packages": 30
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": true,
+      "can_access_narrow_streets": true
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 1500,
+      "cost_per_km": 12,
+      "cost_per_hour": 150
+    },
+    "availability": {
+      "start_time": "06:00",
+      "end_time": "21:00",
+      "max_working_hours": 10
+    },
+    "current_status": "available",
+    "assigned_zone": "Central Mumbai"
+  },
+  {
+    "vehicle_id": "VEH_051",
+    "vehicle_type": "mini_truck",
+    "registration_number": "MH26XD8029",
+    "capacity": {
+      "max_weight": 800,
+      "max_volume": 8,
+      "max_packages": 50
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": true,
+      "can_access_narrow_streets": true
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 2500,
+      "cost_per_km": 16,
+      "cost_per_hour": 200
+    },
+    "availability": {
+      "start_time": "06:00",
+      "end_time": "21:00",
+      "max_working_hours": 11
+    },
+    "current_status": "available",
+    "assigned_zone": "Navi Mumbai"
+  },
+  {
+    "vehicle_id": "VEH_052",
+    "vehicle_type": "small_van",
+    "registration_number": "MH04AF1054",
+    "capacity": {
+      "max_weight": 500,
+      "max_volume": 5,
+      "max_packages": 30
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": true,
+      "can_access_narrow_streets": true
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 1500,
+      "cost_per_km": 12,
+      "cost_per_hour": 150
+    },
+    "availability": {
+      "start_time": "06:00",
+      "end_time": "21:00",
+      "max_working_hours": 10
+    },
+    "current_status": "available",
+    "assigned_zone": "Thane"
+  },
+  {
+    "vehicle_id": "VEH_053",
+    "vehicle_type": "mini_truck",
+    "registration_number": "MH08AR6477",
+    "capacity": {
+      "max_weight": 800,
+      "max_volume": 8,
+      "max_packages": 50
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": true,
+      "can_access_narrow_streets": true
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 2500,
+      "cost_per_km": 16,
+      "cost_per_hour": 200
+    },
+    "availability": {
+      "start_time": "06:00",
+      "end_time": "21:00",
+      "max_working_hours": 11
+    },
+    "current_status": "available",
+    "assigned_zone": "Western Suburbs"
+  },
+  {
+    "vehicle_id": "VEH_054",
+    "vehicle_type": "two_wheeler",
+    "registration_number": "MH46RL3788",
+    "capacity": {
+      "max_weight": 30,
+      "max_volume": 0.3,
+      "max_packages": 5
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": true,
+      "can_access_narrow_streets": true
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 300,
+      "cost_per_km": 4,
+      "cost_per_hour": 50
+    },
+    "availability": {
+      "start_time": "07:00",
+      "end_time": "20:00",
+      "max_working_hours": 10
+    },
+    "current_status": "available",
+    "assigned_zone": "South Mumbai"
+  },
+  {
+    "vehicle_id": "VEH_055",
+    "vehicle_type": "mini_truck",
+    "registration_number": "MH50HS6182",
+    "capacity": {
+      "max_weight": 800,
+      "max_volume": 8,
+      "max_packages": 50
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": true,
+      "can_access_narrow_streets": true
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 2500,
+      "cost_per_km": 16,
+      "cost_per_hour": 200
+    },
+    "availability": {
+      "start_time": "06:00",
+      "end_time": "21:00",
+      "max_working_hours": 11
+    },
+    "current_status": "available",
+    "assigned_zone": "Thane"
+  },
+  {
+    "vehicle_id": "VEH_056",
+    "vehicle_type": "two_wheeler",
+    "registration_number": "MH16EC5848",
+    "capacity": {
+      "max_weight": 30,
+      "max_volume": 0.3,
+      "max_packages": 5
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": true,
+      "can_access_narrow_streets": true
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 300,
+      "cost_per_km": 4,
+      "cost_per_hour": 50
+    },
+    "availability": {
+      "start_time": "07:00",
+      "end_time": "20:00",
+      "max_working_hours": 10
+    },
+    "current_status": "available",
+    "assigned_zone": "Eastern Suburbs"
+  },
+  {
+    "vehicle_id": "VEH_057",
+    "vehicle_type": "mini_truck",
+    "registration_number": "MH49KP6948",
+    "capacity": {
+      "max_weight": 800,
+      "max_volume": 8,
+      "max_packages": 50
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": true,
+      "can_access_narrow_streets": true
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 2500,
+      "cost_per_km": 16,
+      "cost_per_hour": 200
+    },
+    "availability": {
+      "start_time": "06:00",
+      "end_time": "21:00",
+      "max_working_hours": 11
+    },
+    "current_status": "on_route",
+    "assigned_zone": "Eastern Suburbs"
+  },
+  {
+    "vehicle_id": "VEH_058",
+    "vehicle_type": "small_van",
+    "registration_number": "MH02ND5112",
+    "capacity": {
+      "max_weight": 500,
+      "max_volume": 5,
+      "max_packages": 30
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": true,
+      "can_access_narrow_streets": true
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 1500,
+      "cost_per_km": 12,
+      "cost_per_hour": 150
+    },
+    "availability": {
+      "start_time": "06:00",
+      "end_time": "21:00",
+      "max_working_hours": 10
+    },
+    "current_status": "maintenance",
+    "assigned_zone": "Thane"
+  },
+  {
+    "vehicle_id": "VEH_059",
+    "vehicle_type": "small_van",
+    "registration_number": "MH46DA4916",
+    "capacity": {
+      "max_weight": 500,
+      "max_volume": 5,
+      "max_packages": 30
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": true,
+      "can_access_narrow_streets": true
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 1500,
+      "cost_per_km": 12,
+      "cost_per_hour": 150
+    },
+    "availability": {
+      "start_time": "06:00",
+      "end_time": "21:00",
+      "max_working_hours": 10
+    },
+    "current_status": "available",
+    "assigned_zone": "Virar-Vasai"
+  },
+  {
+    "vehicle_id": "VEH_060",
+    "vehicle_type": "small_van",
+    "registration_number": "MH04DT6028",
+    "capacity": {
+      "max_weight": 500,
+      "max_volume": 5,
+      "max_packages": 30
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": true,
+      "can_access_narrow_streets": true
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 1500,
+      "cost_per_km": 12,
+      "cost_per_hour": 150
+    },
+    "availability": {
+      "start_time": "06:00",
+      "end_time": "21:00",
+      "max_working_hours": 10
+    },
+    "current_status": "available",
+    "assigned_zone": "Western Suburbs"
+  },
+  {
+    "vehicle_id": "VEH_061",
+    "vehicle_type": "mini_truck",
+    "registration_number": "MH44HM6136",
+    "capacity": {
+      "max_weight": 800,
+      "max_volume": 8,
+      "max_packages": 50
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": true,
+      "can_access_narrow_streets": true
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 2500,
+      "cost_per_km": 16,
+      "cost_per_hour": 200
+    },
+    "availability": {
+      "start_time": "06:00",
+      "end_time": "21:00",
+      "max_working_hours": 11
+    },
+    "current_status": "available",
+    "assigned_zone": "Eastern Suburbs"
+  },
+  {
+    "vehicle_id": "VEH_062",
+    "vehicle_type": "mini_truck",
+    "registration_number": "MH10PV1184",
+    "capacity": {
+      "max_weight": 800,
+      "max_volume": 8,
+      "max_packages": 50
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": true,
+      "can_access_narrow_streets": true
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 2500,
+      "cost_per_km": 16,
+      "cost_per_hour": 200
+    },
+    "availability": {
+      "start_time": "06:00",
+      "end_time": "21:00",
+      "max_working_hours": 11
+    },
+    "current_status": "available",
+    "assigned_zone": "North Mumbai"
+  },
+  {
+    "vehicle_id": "VEH_063",
+    "vehicle_type": "two_wheeler",
+    "registration_number": "MH05WD1847",
+    "capacity": {
+      "max_weight": 30,
+      "max_volume": 0.3,
+      "max_packages": 5
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": true,
+      "can_access_narrow_streets": true
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 300,
+      "cost_per_km": 4,
+      "cost_per_hour": 50
+    },
+    "availability": {
+      "start_time": "07:00",
+      "end_time": "20:00",
+      "max_working_hours": 10
+    },
+    "current_status": "on_route",
+    "assigned_zone": "North Mumbai"
+  },
+  {
+    "vehicle_id": "VEH_064",
+    "vehicle_type": "small_van",
+    "registration_number": "MH26EL8069",
+    "capacity": {
+      "max_weight": 500,
+      "max_volume": 5,
+      "max_packages": 30
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": true,
+      "can_access_narrow_streets": true
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 1500,
+      "cost_per_km": 12,
+      "cost_per_hour": 150
+    },
+    "availability": {
+      "start_time": "06:00",
+      "end_time": "21:00",
+      "max_working_hours": 10
+    },
+    "current_status": "available",
+    "assigned_zone": "Virar-Vasai"
+  },
+  {
+    "vehicle_id": "VEH_065",
+    "vehicle_type": "two_wheeler",
+    "registration_number": "MH16GN3390",
+    "capacity": {
+      "max_weight": 30,
+      "max_volume": 0.3,
+      "max_packages": 5
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": true,
+      "can_access_narrow_streets": true
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 300,
+      "cost_per_km": 4,
+      "cost_per_hour": 50
+    },
+    "availability": {
+      "start_time": "07:00",
+      "end_time": "20:00",
+      "max_working_hours": 10
+    },
+    "current_status": "on_route",
+    "assigned_zone": "Thane"
+  },
+  {
+    "vehicle_id": "VEH_066",
+    "vehicle_type": "large_truck",
+    "registration_number": "MH24WF3235",
+    "capacity": {
+      "max_weight": 8000,
+      "max_volume": 80,
+      "max_packages": 300
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": false,
+      "can_access_narrow_streets": false
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 8000,
+      "cost_per_km": 40,
+      "cost_per_hour": 500
+    },
+    "availability": {
+      "start_time": "05:00",
+      "end_time": "23:00",
+      "max_working_hours": 14
+    },
+    "current_status": "maintenance",
+    "assigned_zone": "Western Suburbs"
+  },
+  {
+    "vehicle_id": "VEH_067",
+    "vehicle_type": "medium_truck",
+    "registration_number": "MH46GE5373",
+    "capacity": {
+      "max_weight": 2000,
+      "max_volume": 20,
+      "max_packages": 100
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": false,
+      "can_access_narrow_streets": false
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 4000,
+      "cost_per_km": 22,
+      "cost_per_hour": 300
+    },
+    "availability": {
+      "start_time": "05:00",
+      "end_time": "22:00",
+      "max_working_hours": 12
+    },
+    "current_status": "on_route",
+    "assigned_zone": "Western Suburbs"
+  },
+  {
+    "vehicle_id": "VEH_068",
+    "vehicle_type": "two_wheeler",
+    "registration_number": "MH23JY4499",
+    "capacity": {
+      "max_weight": 30,
+      "max_volume": 0.3,
+      "max_packages": 5
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": true,
+      "can_access_narrow_streets": true
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 300,
+      "cost_per_km": 4,
+      "cost_per_hour": 50
+    },
+    "availability": {
+      "start_time": "07:00",
+      "end_time": "20:00",
+      "max_working_hours": 10
+    },
+    "current_status": "available",
+    "assigned_zone": "Western Suburbs"
+  },
+  {
+    "vehicle_id": "VEH_069",
+    "vehicle_type": "large_truck",
+    "registration_number": "MH28SJ9103",
+    "capacity": {
+      "max_weight": 8000,
+      "max_volume": 80,
+      "max_packages": 300
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": false,
+      "can_access_narrow_streets": false
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 8000,
+      "cost_per_km": 40,
+      "cost_per_hour": 500
+    },
+    "availability": {
+      "start_time": "05:00",
+      "end_time": "23:00",
+      "max_working_hours": 14
+    },
+    "current_status": "on_route",
+    "assigned_zone": "Eastern Suburbs"
+  },
+  {
+    "vehicle_id": "VEH_070",
+    "vehicle_type": "mini_truck",
+    "registration_number": "MH44UY1660",
+    "capacity": {
+      "max_weight": 800,
+      "max_volume": 8,
+      "max_packages": 50
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": true,
+      "can_access_narrow_streets": true
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 2500,
+      "cost_per_km": 16,
+      "cost_per_hour": 200
+    },
+    "availability": {
+      "start_time": "06:00",
+      "end_time": "21:00",
+      "max_working_hours": 11
+    },
+    "current_status": "available",
+    "assigned_zone": "Western Suburbs"
+  },
+  {
+    "vehicle_id": "VEH_071",
+    "vehicle_type": "two_wheeler",
+    "registration_number": "MH31FJ1016",
+    "capacity": {
+      "max_weight": 30,
+      "max_volume": 0.3,
+      "max_packages": 5
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": true,
+      "can_access_narrow_streets": true
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 300,
+      "cost_per_km": 4,
+      "cost_per_hour": 50
+    },
+    "availability": {
+      "start_time": "07:00",
+      "end_time": "20:00",
+      "max_working_hours": 10
+    },
+    "current_status": "available",
+    "assigned_zone": "Western Suburbs"
+  },
+  {
+    "vehicle_id": "VEH_072",
+    "vehicle_type": "mini_truck",
+    "registration_number": "MH02DY3668",
+    "capacity": {
+      "max_weight": 800,
+      "max_volume": 8,
+      "max_packages": 50
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": true,
+      "can_access_narrow_streets": true
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 2500,
+      "cost_per_km": 16,
+      "cost_per_hour": 200
+    },
+    "availability": {
+      "start_time": "06:00",
+      "end_time": "21:00",
+      "max_working_hours": 11
+    },
+    "current_status": "available",
+    "assigned_zone": "Navi Mumbai"
+  },
+  {
+    "vehicle_id": "VEH_073",
+    "vehicle_type": "small_van",
+    "registration_number": "MH05QB4432",
+    "capacity": {
+      "max_weight": 500,
+      "max_volume": 5,
+      "max_packages": 30
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": true,
+      "can_access_narrow_streets": true
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 1500,
+      "cost_per_km": 12,
+      "cost_per_hour": 150
+    },
+    "availability": {
+      "start_time": "06:00",
+      "end_time": "21:00",
+      "max_working_hours": 10
+    },
+    "current_status": "on_route",
+    "assigned_zone": "Thane"
+  },
+  {
+    "vehicle_id": "VEH_074",
+    "vehicle_type": "two_wheeler",
+    "registration_number": "MH12UK3218",
+    "capacity": {
+      "max_weight": 30,
+      "max_volume": 0.3,
+      "max_packages": 5
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": true,
+      "can_access_narrow_streets": true
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 300,
+      "cost_per_km": 4,
+      "cost_per_hour": 50
+    },
+    "availability": {
+      "start_time": "07:00",
+      "end_time": "20:00",
+      "max_working_hours": 10
+    },
+    "current_status": "available",
+    "assigned_zone": "South Mumbai"
+  },
+  {
+    "vehicle_id": "VEH_075",
+    "vehicle_type": "large_truck",
+    "registration_number": "MH12AF2493",
+    "capacity": {
+      "max_weight": 8000,
+      "max_volume": 80,
+      "max_packages": 300
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": false,
+      "can_access_narrow_streets": false
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 8000,
+      "cost_per_km": 40,
+      "cost_per_hour": 500
+    },
+    "availability": {
+      "start_time": "05:00",
+      "end_time": "23:00",
+      "max_working_hours": 14
+    },
+    "current_status": "on_route",
+    "assigned_zone": "Navi Mumbai"
+  },
+  {
+    "vehicle_id": "VEH_076",
+    "vehicle_type": "two_wheeler",
+    "registration_number": "MH09BR1570",
+    "capacity": {
+      "max_weight": 30,
+      "max_volume": 0.3,
+      "max_packages": 5
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": true,
+      "can_access_narrow_streets": true
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 300,
+      "cost_per_km": 4,
+      "cost_per_hour": 50
+    },
+    "availability": {
+      "start_time": "07:00",
+      "end_time": "20:00",
+      "max_working_hours": 10
+    },
+    "current_status": "available",
+    "assigned_zone": "Eastern Suburbs"
+  },
+  {
+    "vehicle_id": "VEH_077",
+    "vehicle_type": "two_wheeler",
+    "registration_number": "MH23SD9153",
+    "capacity": {
+      "max_weight": 30,
+      "max_volume": 0.3,
+      "max_packages": 5
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": true,
+      "can_access_narrow_streets": true
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 300,
+      "cost_per_km": 4,
+      "cost_per_hour": 50
+    },
+    "availability": {
+      "start_time": "07:00",
+      "end_time": "20:00",
+      "max_working_hours": 10
+    },
+    "current_status": "on_route",
+    "assigned_zone": "Central Mumbai"
+  },
+  {
+    "vehicle_id": "VEH_078",
+    "vehicle_type": "small_van",
+    "registration_number": "MH02NY6426",
+    "capacity": {
+      "max_weight": 500,
+      "max_volume": 5,
+      "max_packages": 30
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": true,
+      "can_access_narrow_streets": true
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 1500,
+      "cost_per_km": 12,
+      "cost_per_hour": 150
+    },
+    "availability": {
+      "start_time": "06:00",
+      "end_time": "21:00",
+      "max_working_hours": 10
+    },
+    "current_status": "available",
+    "assigned_zone": "Thane"
+  },
+  {
+    "vehicle_id": "VEH_079",
+    "vehicle_type": "two_wheeler",
+    "registration_number": "MH36LW7089",
+    "capacity": {
+      "max_weight": 30,
+      "max_volume": 0.3,
+      "max_packages": 5
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": true,
+      "can_access_narrow_streets": true
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 300,
+      "cost_per_km": 4,
+      "cost_per_hour": 50
+    },
+    "availability": {
+      "start_time": "07:00",
+      "end_time": "20:00",
+      "max_working_hours": 10
+    },
+    "current_status": "available",
+    "assigned_zone": "Virar-Vasai"
+  },
+  {
+    "vehicle_id": "VEH_080",
+    "vehicle_type": "two_wheeler",
+    "registration_number": "MH30MN3262",
+    "capacity": {
+      "max_weight": 30,
+      "max_volume": 0.3,
+      "max_packages": 5
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": true,
+      "can_access_narrow_streets": true
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 300,
+      "cost_per_km": 4,
+      "cost_per_hour": 50
+    },
+    "availability": {
+      "start_time": "07:00",
+      "end_time": "20:00",
+      "max_working_hours": 10
+    },
+    "current_status": "available",
+    "assigned_zone": "Navi Mumbai"
+  },
+  {
+    "vehicle_id": "VEH_081",
+    "vehicle_type": "medium_truck",
+    "registration_number": "MH26WA8281",
+    "capacity": {
+      "max_weight": 2000,
+      "max_volume": 20,
+      "max_packages": 100
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": false,
+      "can_access_narrow_streets": false
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 4000,
+      "cost_per_km": 22,
+      "cost_per_hour": 300
+    },
+    "availability": {
+      "start_time": "05:00",
+      "end_time": "22:00",
+      "max_working_hours": 12
+    },
+    "current_status": "available",
+    "assigned_zone": "Western Suburbs"
+  },
+  {
+    "vehicle_id": "VEH_082",
+    "vehicle_type": "small_van",
+    "registration_number": "MH42KP6421",
+    "capacity": {
+      "max_weight": 500,
+      "max_volume": 5,
+      "max_packages": 30
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": true,
+      "can_access_narrow_streets": true
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 1500,
+      "cost_per_km": 12,
+      "cost_per_hour": 150
+    },
+    "availability": {
+      "start_time": "06:00",
+      "end_time": "21:00",
+      "max_working_hours": 10
+    },
+    "current_status": "available",
+    "assigned_zone": "Thane"
+  },
+  {
+    "vehicle_id": "VEH_083",
+    "vehicle_type": "small_van",
+    "registration_number": "MH06MW5212",
+    "capacity": {
+      "max_weight": 500,
+      "max_volume": 5,
+      "max_packages": 30
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": true,
+      "can_access_narrow_streets": true
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 1500,
+      "cost_per_km": 12,
+      "cost_per_hour": 150
+    },
+    "availability": {
+      "start_time": "06:00",
+      "end_time": "21:00",
+      "max_working_hours": 10
+    },
+    "current_status": "maintenance",
+    "assigned_zone": "Navi Mumbai"
+  },
+  {
+    "vehicle_id": "VEH_084",
+    "vehicle_type": "mini_truck",
+    "registration_number": "MH36NJ9763",
+    "capacity": {
+      "max_weight": 800,
+      "max_volume": 8,
+      "max_packages": 50
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": true,
+      "can_access_narrow_streets": true
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 2500,
+      "cost_per_km": 16,
+      "cost_per_hour": 200
+    },
+    "availability": {
+      "start_time": "06:00",
+      "end_time": "21:00",
+      "max_working_hours": 11
+    },
+    "current_status": "maintenance",
+    "assigned_zone": "Navi Mumbai"
+  },
+  {
+    "vehicle_id": "VEH_085",
+    "vehicle_type": "two_wheeler",
+    "registration_number": "MH14FU7494",
+    "capacity": {
+      "max_weight": 30,
+      "max_volume": 0.3,
+      "max_packages": 5
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": true,
+      "can_access_narrow_streets": true
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 300,
+      "cost_per_km": 4,
+      "cost_per_hour": 50
+    },
+    "availability": {
+      "start_time": "07:00",
+      "end_time": "20:00",
+      "max_working_hours": 10
+    },
+    "current_status": "on_route",
+    "assigned_zone": "North Mumbai"
+  },
+  {
+    "vehicle_id": "VEH_086",
+    "vehicle_type": "mini_truck",
+    "registration_number": "MH42MP1762",
+    "capacity": {
+      "max_weight": 800,
+      "max_volume": 8,
+      "max_packages": 50
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": true,
+      "can_access_narrow_streets": true
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 2500,
+      "cost_per_km": 16,
+      "cost_per_hour": 200
+    },
+    "availability": {
+      "start_time": "06:00",
+      "end_time": "21:00",
+      "max_working_hours": 11
+    },
+    "current_status": "available",
+    "assigned_zone": "North Mumbai"
+  },
+  {
+    "vehicle_id": "VEH_087",
+    "vehicle_type": "small_van",
+    "registration_number": "MH46YV5174",
+    "capacity": {
+      "max_weight": 500,
+      "max_volume": 5,
+      "max_packages": 30
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": true,
+      "can_access_narrow_streets": true
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 1500,
+      "cost_per_km": 12,
+      "cost_per_hour": 150
+    },
+    "availability": {
+      "start_time": "06:00",
+      "end_time": "21:00",
+      "max_working_hours": 10
+    },
+    "current_status": "available",
+    "assigned_zone": "Navi Mumbai"
+  },
+  {
+    "vehicle_id": "VEH_088",
+    "vehicle_type": "two_wheeler",
+    "registration_number": "MH25NH5910",
+    "capacity": {
+      "max_weight": 30,
+      "max_volume": 0.3,
+      "max_packages": 5
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": true,
+      "can_access_narrow_streets": true
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 300,
+      "cost_per_km": 4,
+      "cost_per_hour": 50
+    },
+    "availability": {
+      "start_time": "07:00",
+      "end_time": "20:00",
+      "max_working_hours": 10
+    },
+    "current_status": "available",
+    "assigned_zone": "Eastern Suburbs"
+  },
+  {
+    "vehicle_id": "VEH_089",
+    "vehicle_type": "two_wheeler",
+    "registration_number": "MH34JZ8241",
+    "capacity": {
+      "max_weight": 30,
+      "max_volume": 0.3,
+      "max_packages": 5
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": true,
+      "can_access_narrow_streets": true
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 300,
+      "cost_per_km": 4,
+      "cost_per_hour": 50
+    },
+    "availability": {
+      "start_time": "07:00",
+      "end_time": "20:00",
+      "max_working_hours": 10
+    },
+    "current_status": "available",
+    "assigned_zone": "South Mumbai"
+  },
+  {
+    "vehicle_id": "VEH_090",
+    "vehicle_type": "small_van",
+    "registration_number": "MH17UM3318",
+    "capacity": {
+      "max_weight": 500,
+      "max_volume": 5,
+      "max_packages": 30
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": true,
+      "can_access_narrow_streets": true
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 1500,
+      "cost_per_km": 12,
+      "cost_per_hour": 150
+    },
+    "availability": {
+      "start_time": "06:00",
+      "end_time": "21:00",
+      "max_working_hours": 10
+    },
+    "current_status": "available",
+    "assigned_zone": "North Mumbai"
+  },
+  {
+    "vehicle_id": "VEH_091",
+    "vehicle_type": "small_van",
+    "registration_number": "MH28ZE1108",
+    "capacity": {
+      "max_weight": 500,
+      "max_volume": 5,
+      "max_packages": 30
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": true,
+      "can_access_narrow_streets": true
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 1500,
+      "cost_per_km": 12,
+      "cost_per_hour": 150
+    },
+    "availability": {
+      "start_time": "06:00",
+      "end_time": "21:00",
+      "max_working_hours": 10
+    },
+    "current_status": "maintenance",
+    "assigned_zone": "Virar-Vasai"
+  },
+  {
+    "vehicle_id": "VEH_092",
+    "vehicle_type": "medium_truck",
+    "registration_number": "MH02SL3468",
+    "capacity": {
+      "max_weight": 2000,
+      "max_volume": 20,
+      "max_packages": 100
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": false,
+      "can_access_narrow_streets": false
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 4000,
+      "cost_per_km": 22,
+      "cost_per_hour": 300
+    },
+    "availability": {
+      "start_time": "05:00",
+      "end_time": "22:00",
+      "max_working_hours": 12
+    },
+    "current_status": "available",
+    "assigned_zone": "Central Mumbai"
+  },
+  {
+    "vehicle_id": "VEH_093",
+    "vehicle_type": "medium_truck",
+    "registration_number": "MH43KU4342",
+    "capacity": {
+      "max_weight": 2000,
+      "max_volume": 20,
+      "max_packages": 100
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": false,
+      "can_access_narrow_streets": false
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 4000,
+      "cost_per_km": 22,
+      "cost_per_hour": 300
+    },
+    "availability": {
+      "start_time": "05:00",
+      "end_time": "22:00",
+      "max_working_hours": 12
+    },
+    "current_status": "maintenance",
+    "assigned_zone": "Virar-Vasai"
+  },
+  {
+    "vehicle_id": "VEH_094",
+    "vehicle_type": "mini_truck",
+    "registration_number": "MH13VW3233",
+    "capacity": {
+      "max_weight": 800,
+      "max_volume": 8,
+      "max_packages": 50
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": true,
+      "can_access_narrow_streets": true
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 2500,
+      "cost_per_km": 16,
+      "cost_per_hour": 200
+    },
+    "availability": {
+      "start_time": "06:00",
+      "end_time": "21:00",
+      "max_working_hours": 11
+    },
+    "current_status": "available",
+    "assigned_zone": "Western Suburbs"
+  },
+  {
+    "vehicle_id": "VEH_095",
+    "vehicle_type": "medium_truck",
+    "registration_number": "MH07GQ6035",
+    "capacity": {
+      "max_weight": 2000,
+      "max_volume": 20,
+      "max_packages": 100
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": false,
+      "can_access_narrow_streets": false
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 4000,
+      "cost_per_km": 22,
+      "cost_per_hour": 300
+    },
+    "availability": {
+      "start_time": "05:00",
+      "end_time": "22:00",
+      "max_working_hours": 12
+    },
+    "current_status": "on_route",
+    "assigned_zone": "North Mumbai"
+  },
+  {
+    "vehicle_id": "VEH_096",
+    "vehicle_type": "medium_truck",
+    "registration_number": "MH26SX2770",
+    "capacity": {
+      "max_weight": 2000,
+      "max_volume": 20,
+      "max_packages": 100
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": false,
+      "can_access_narrow_streets": false
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 4000,
+      "cost_per_km": 22,
+      "cost_per_hour": 300
+    },
+    "availability": {
+      "start_time": "05:00",
+      "end_time": "22:00",
+      "max_working_hours": 12
+    },
+    "current_status": "on_route",
+    "assigned_zone": "South Mumbai"
+  },
+  {
+    "vehicle_id": "VEH_097",
+    "vehicle_type": "two_wheeler",
+    "registration_number": "MH42MP7610",
+    "capacity": {
+      "max_weight": 30,
+      "max_volume": 0.3,
+      "max_packages": 5
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": true,
+      "can_access_narrow_streets": true
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 300,
+      "cost_per_km": 4,
+      "cost_per_hour": 50
+    },
+    "availability": {
+      "start_time": "07:00",
+      "end_time": "20:00",
+      "max_working_hours": 10
+    },
+    "current_status": "available",
+    "assigned_zone": "Western Suburbs"
+  },
+  {
+    "vehicle_id": "VEH_098",
+    "vehicle_type": "large_truck",
+    "registration_number": "MH04CD2559",
+    "capacity": {
+      "max_weight": 8000,
+      "max_volume": 80,
+      "max_packages": 300
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": false,
+      "can_access_narrow_streets": false
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 8000,
+      "cost_per_km": 40,
+      "cost_per_hour": 500
+    },
+    "availability": {
+      "start_time": "05:00",
+      "end_time": "23:00",
+      "max_working_hours": 14
+    },
+    "current_status": "available",
+    "assigned_zone": "South Mumbai"
+  },
+  {
+    "vehicle_id": "VEH_099",
+    "vehicle_type": "medium_truck",
+    "registration_number": "MH24QQ1618",
+    "capacity": {
+      "max_weight": 2000,
+      "max_volume": 20,
+      "max_packages": 100
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": false,
+      "can_access_narrow_streets": false
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 4000,
+      "cost_per_km": 22,
+      "cost_per_hour": 300
+    },
+    "availability": {
+      "start_time": "05:00",
+      "end_time": "22:00",
+      "max_working_hours": 12
+    },
+    "current_status": "maintenance",
+    "assigned_zone": "North Mumbai"
+  },
+  {
+    "vehicle_id": "VEH_100",
+    "vehicle_type": "mini_truck",
+    "registration_number": "MH50EH6581",
+    "capacity": {
+      "max_weight": 800,
+      "max_volume": 8,
+      "max_packages": 50
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": true,
+      "can_access_narrow_streets": true
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 2500,
+      "cost_per_km": 16,
+      "cost_per_hour": 200
+    },
+    "availability": {
+      "start_time": "06:00",
+      "end_time": "21:00",
+      "max_working_hours": 11
+    },
+    "current_status": "available",
+    "assigned_zone": "North Mumbai"
+  },
+  {
+    "vehicle_id": "VEH_101",
+    "vehicle_type": "two_wheeler",
+    "registration_number": "MH25TB5679",
+    "capacity": {
+      "max_weight": 30,
+      "max_volume": 0.3,
+      "max_packages": 5
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": true,
+      "can_access_narrow_streets": true
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 300,
+      "cost_per_km": 4,
+      "cost_per_hour": 50
+    },
+    "availability": {
+      "start_time": "07:00",
+      "end_time": "20:00",
+      "max_working_hours": 10
+    },
+    "current_status": "on_route",
+    "assigned_zone": "Thane"
+  },
+  {
+    "vehicle_id": "VEH_102",
+    "vehicle_type": "small_van",
+    "registration_number": "MH31KR6295",
+    "capacity": {
+      "max_weight": 500,
+      "max_volume": 5,
+      "max_packages": 30
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": true,
+      "can_access_narrow_streets": true
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 1500,
+      "cost_per_km": 12,
+      "cost_per_hour": 150
+    },
+    "availability": {
+      "start_time": "06:00",
+      "end_time": "21:00",
+      "max_working_hours": 10
+    },
+    "current_status": "maintenance",
+    "assigned_zone": "South Mumbai"
+  },
+  {
+    "vehicle_id": "VEH_103",
+    "vehicle_type": "two_wheeler",
+    "registration_number": "MH09BF5037",
+    "capacity": {
+      "max_weight": 30,
+      "max_volume": 0.3,
+      "max_packages": 5
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": true,
+      "can_access_narrow_streets": true
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 300,
+      "cost_per_km": 4,
+      "cost_per_hour": 50
+    },
+    "availability": {
+      "start_time": "07:00",
+      "end_time": "20:00",
+      "max_working_hours": 10
+    },
+    "current_status": "available",
+    "assigned_zone": "South Mumbai"
+  },
+  {
+    "vehicle_id": "VEH_104",
+    "vehicle_type": "medium_truck",
+    "registration_number": "MH29SA3364",
+    "capacity": {
+      "max_weight": 2000,
+      "max_volume": 20,
+      "max_packages": 100
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": false,
+      "can_access_narrow_streets": false
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 4000,
+      "cost_per_km": 22,
+      "cost_per_hour": 300
+    },
+    "availability": {
+      "start_time": "05:00",
+      "end_time": "22:00",
+      "max_working_hours": 12
+    },
+    "current_status": "available",
+    "assigned_zone": "Virar-Vasai"
+  },
+  {
+    "vehicle_id": "VEH_105",
+    "vehicle_type": "medium_truck",
+    "registration_number": "MH24EA3133",
+    "capacity": {
+      "max_weight": 2000,
+      "max_volume": 20,
+      "max_packages": 100
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": false,
+      "can_access_narrow_streets": false
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 4000,
+      "cost_per_km": 22,
+      "cost_per_hour": 300
+    },
+    "availability": {
+      "start_time": "05:00",
+      "end_time": "22:00",
+      "max_working_hours": 12
+    },
+    "current_status": "available",
+    "assigned_zone": "Thane"
+  },
+  {
+    "vehicle_id": "VEH_106",
+    "vehicle_type": "small_van",
+    "registration_number": "MH09RL4222",
+    "capacity": {
+      "max_weight": 500,
+      "max_volume": 5,
+      "max_packages": 30
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": true,
+      "can_access_narrow_streets": true
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 1500,
+      "cost_per_km": 12,
+      "cost_per_hour": 150
+    },
+    "availability": {
+      "start_time": "06:00",
+      "end_time": "21:00",
+      "max_working_hours": 10
+    },
+    "current_status": "available",
+    "assigned_zone": "North Mumbai"
+  },
+  {
+    "vehicle_id": "VEH_107",
+    "vehicle_type": "medium_truck",
+    "registration_number": "MH03PT7863",
+    "capacity": {
+      "max_weight": 2000,
+      "max_volume": 20,
+      "max_packages": 100
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": false,
+      "can_access_narrow_streets": false
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 4000,
+      "cost_per_km": 22,
+      "cost_per_hour": 300
+    },
+    "availability": {
+      "start_time": "05:00",
+      "end_time": "22:00",
+      "max_working_hours": 12
+    },
+    "current_status": "available",
+    "assigned_zone": "Western Suburbs"
+  },
+  {
+    "vehicle_id": "VEH_108",
+    "vehicle_type": "medium_truck",
+    "registration_number": "MH10LX7399",
+    "capacity": {
+      "max_weight": 2000,
+      "max_volume": 20,
+      "max_packages": 100
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": false,
+      "can_access_narrow_streets": false
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 4000,
+      "cost_per_km": 22,
+      "cost_per_hour": 300
+    },
+    "availability": {
+      "start_time": "05:00",
+      "end_time": "22:00",
+      "max_working_hours": 12
+    },
+    "current_status": "on_route",
+    "assigned_zone": "Navi Mumbai"
+  },
+  {
+    "vehicle_id": "VEH_109",
+    "vehicle_type": "two_wheeler",
+    "registration_number": "MH04GV3260",
+    "capacity": {
+      "max_weight": 30,
+      "max_volume": 0.3,
+      "max_packages": 5
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": true,
+      "can_access_narrow_streets": true
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 300,
+      "cost_per_km": 4,
+      "cost_per_hour": 50
+    },
+    "availability": {
+      "start_time": "07:00",
+      "end_time": "20:00",
+      "max_working_hours": 10
+    },
+    "current_status": "available",
+    "assigned_zone": "Central Mumbai"
+  },
+  {
+    "vehicle_id": "VEH_110",
+    "vehicle_type": "medium_truck",
+    "registration_number": "MH17WF6805",
+    "capacity": {
+      "max_weight": 2000,
+      "max_volume": 20,
+      "max_packages": 100
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": false,
+      "can_access_narrow_streets": false
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 4000,
+      "cost_per_km": 22,
+      "cost_per_hour": 300
+    },
+    "availability": {
+      "start_time": "05:00",
+      "end_time": "22:00",
+      "max_working_hours": 12
+    },
+    "current_status": "available",
+    "assigned_zone": "Eastern Suburbs"
+  },
+  {
+    "vehicle_id": "VEH_111",
+    "vehicle_type": "medium_truck",
+    "registration_number": "MH38EJ1078",
+    "capacity": {
+      "max_weight": 2000,
+      "max_volume": 20,
+      "max_packages": 100
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": false,
+      "can_access_narrow_streets": false
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 4000,
+      "cost_per_km": 22,
+      "cost_per_hour": 300
+    },
+    "availability": {
+      "start_time": "05:00",
+      "end_time": "22:00",
+      "max_working_hours": 12
+    },
+    "current_status": "available",
+    "assigned_zone": "Thane"
+  },
+  {
+    "vehicle_id": "VEH_112",
+    "vehicle_type": "medium_truck",
+    "registration_number": "MH44QZ4117",
+    "capacity": {
+      "max_weight": 2000,
+      "max_volume": 20,
+      "max_packages": 100
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": false,
+      "can_access_narrow_streets": false
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 4000,
+      "cost_per_km": 22,
+      "cost_per_hour": 300
+    },
+    "availability": {
+      "start_time": "05:00",
+      "end_time": "22:00",
+      "max_working_hours": 12
+    },
+    "current_status": "available",
+    "assigned_zone": "Eastern Suburbs"
+  },
+  {
+    "vehicle_id": "VEH_113",
+    "vehicle_type": "small_van",
+    "registration_number": "MH47XC3645",
+    "capacity": {
+      "max_weight": 500,
+      "max_volume": 5,
+      "max_packages": 30
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": true,
+      "can_access_narrow_streets": true
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 1500,
+      "cost_per_km": 12,
+      "cost_per_hour": 150
+    },
+    "availability": {
+      "start_time": "06:00",
+      "end_time": "21:00",
+      "max_working_hours": 10
+    },
+    "current_status": "available",
+    "assigned_zone": "Eastern Suburbs"
+  },
+  {
+    "vehicle_id": "VEH_114",
+    "vehicle_type": "small_van",
+    "registration_number": "MH45KL3931",
+    "capacity": {
+      "max_weight": 500,
+      "max_volume": 5,
+      "max_packages": 30
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": true,
+      "can_access_narrow_streets": true
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 1500,
+      "cost_per_km": 12,
+      "cost_per_hour": 150
+    },
+    "availability": {
+      "start_time": "06:00",
+      "end_time": "21:00",
+      "max_working_hours": 10
+    },
+    "current_status": "on_route",
+    "assigned_zone": "South Mumbai"
+  },
+  {
+    "vehicle_id": "VEH_115",
+    "vehicle_type": "mini_truck",
+    "registration_number": "MH45XY2631",
+    "capacity": {
+      "max_weight": 800,
+      "max_volume": 8,
+      "max_packages": 50
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": true,
+      "can_access_narrow_streets": true
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 2500,
+      "cost_per_km": 16,
+      "cost_per_hour": 200
+    },
+    "availability": {
+      "start_time": "06:00",
+      "end_time": "21:00",
+      "max_working_hours": 11
+    },
+    "current_status": "available",
+    "assigned_zone": "Thane"
+  },
+  {
+    "vehicle_id": "VEH_116",
+    "vehicle_type": "mini_truck",
+    "registration_number": "MH33HD9170",
+    "capacity": {
+      "max_weight": 800,
+      "max_volume": 8,
+      "max_packages": 50
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": true,
+      "can_access_narrow_streets": true
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 2500,
+      "cost_per_km": 16,
+      "cost_per_hour": 200
+    },
+    "availability": {
+      "start_time": "06:00",
+      "end_time": "21:00",
+      "max_working_hours": 11
+    },
+    "current_status": "available",
+    "assigned_zone": "Central Mumbai"
+  },
+  {
+    "vehicle_id": "VEH_117",
+    "vehicle_type": "mini_truck",
+    "registration_number": "MH46RS1959",
+    "capacity": {
+      "max_weight": 800,
+      "max_volume": 8,
+      "max_packages": 50
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": true,
+      "can_access_narrow_streets": true
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 2500,
+      "cost_per_km": 16,
+      "cost_per_hour": 200
+    },
+    "availability": {
+      "start_time": "06:00",
+      "end_time": "21:00",
+      "max_working_hours": 11
+    },
+    "current_status": "available",
+    "assigned_zone": "North Mumbai"
+  },
+  {
+    "vehicle_id": "VEH_118",
+    "vehicle_type": "large_truck",
+    "registration_number": "MH07ES3758",
+    "capacity": {
+      "max_weight": 8000,
+      "max_volume": 80,
+      "max_packages": 300
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": false,
+      "can_access_narrow_streets": false
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 8000,
+      "cost_per_km": 40,
+      "cost_per_hour": 500
+    },
+    "availability": {
+      "start_time": "05:00",
+      "end_time": "23:00",
+      "max_working_hours": 14
+    },
+    "current_status": "available",
+    "assigned_zone": "Thane"
+  },
+  {
+    "vehicle_id": "VEH_119",
+    "vehicle_type": "small_van",
+    "registration_number": "MH21RB3187",
+    "capacity": {
+      "max_weight": 500,
+      "max_volume": 5,
+      "max_packages": 30
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": true,
+      "can_access_narrow_streets": true
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 1500,
+      "cost_per_km": 12,
+      "cost_per_hour": 150
+    },
+    "availability": {
+      "start_time": "06:00",
+      "end_time": "21:00",
+      "max_working_hours": 10
+    },
+    "current_status": "available",
+    "assigned_zone": "Virar-Vasai"
+  },
+  {
+    "vehicle_id": "VEH_120",
+    "vehicle_type": "medium_truck",
+    "registration_number": "MH01HG8404",
+    "capacity": {
+      "max_weight": 2000,
+      "max_volume": 20,
+      "max_packages": 100
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": false,
+      "can_access_narrow_streets": false
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 4000,
+      "cost_per_km": 22,
+      "cost_per_hour": 300
+    },
+    "availability": {
+      "start_time": "05:00",
+      "end_time": "22:00",
+      "max_working_hours": 12
+    },
+    "current_status": "available",
+    "assigned_zone": "Eastern Suburbs"
+  },
+  {
+    "vehicle_id": "VEH_121",
+    "vehicle_type": "small_van",
+    "registration_number": "MH29QR8979",
+    "capacity": {
+      "max_weight": 500,
+      "max_volume": 5,
+      "max_packages": 30
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": true,
+      "can_access_narrow_streets": true
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 1500,
+      "cost_per_km": 12,
+      "cost_per_hour": 150
+    },
+    "availability": {
+      "start_time": "06:00",
+      "end_time": "21:00",
+      "max_working_hours": 10
+    },
+    "current_status": "on_route",
+    "assigned_zone": "Navi Mumbai"
+  },
+  {
+    "vehicle_id": "VEH_122",
+    "vehicle_type": "medium_truck",
+    "registration_number": "MH37VL7743",
+    "capacity": {
+      "max_weight": 2000,
+      "max_volume": 20,
+      "max_packages": 100
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": false,
+      "can_access_narrow_streets": false
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 4000,
+      "cost_per_km": 22,
+      "cost_per_hour": 300
+    },
+    "availability": {
+      "start_time": "05:00",
+      "end_time": "22:00",
+      "max_working_hours": 12
+    },
+    "current_status": "available",
+    "assigned_zone": "South Mumbai"
+  },
+  {
+    "vehicle_id": "VEH_123",
+    "vehicle_type": "mini_truck",
+    "registration_number": "MH06EG2833",
+    "capacity": {
+      "max_weight": 800,
+      "max_volume": 8,
+      "max_packages": 50
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": true,
+      "can_access_narrow_streets": true
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 2500,
+      "cost_per_km": 16,
+      "cost_per_hour": 200
+    },
+    "availability": {
+      "start_time": "06:00",
+      "end_time": "21:00",
+      "max_working_hours": 11
+    },
+    "current_status": "available",
+    "assigned_zone": "Thane"
+  },
+  {
+    "vehicle_id": "VEH_124",
+    "vehicle_type": "small_van",
+    "registration_number": "MH01SP2573",
+    "capacity": {
+      "max_weight": 500,
+      "max_volume": 5,
+      "max_packages": 30
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": true,
+      "can_access_narrow_streets": true
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 1500,
+      "cost_per_km": 12,
+      "cost_per_hour": 150
+    },
+    "availability": {
+      "start_time": "06:00",
+      "end_time": "21:00",
+      "max_working_hours": 10
+    },
+    "current_status": "available",
+    "assigned_zone": "Western Suburbs"
+  },
+  {
+    "vehicle_id": "VEH_125",
+    "vehicle_type": "mini_truck",
+    "registration_number": "MH18QZ9148",
+    "capacity": {
+      "max_weight": 800,
+      "max_volume": 8,
+      "max_packages": 50
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": true,
+      "can_access_narrow_streets": true
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 2500,
+      "cost_per_km": 16,
+      "cost_per_hour": 200
+    },
+    "availability": {
+      "start_time": "06:00",
+      "end_time": "21:00",
+      "max_working_hours": 11
+    },
+    "current_status": "maintenance",
+    "assigned_zone": "South Mumbai"
+  },
+  {
+    "vehicle_id": "VEH_126",
+    "vehicle_type": "mini_truck",
+    "registration_number": "MH33PP9556",
+    "capacity": {
+      "max_weight": 800,
+      "max_volume": 8,
+      "max_packages": 50
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": true,
+      "can_access_narrow_streets": true
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 2500,
+      "cost_per_km": 16,
+      "cost_per_hour": 200
+    },
+    "availability": {
+      "start_time": "06:00",
+      "end_time": "21:00",
+      "max_working_hours": 11
+    },
+    "current_status": "available",
+    "assigned_zone": "Central Mumbai"
+  },
+  {
+    "vehicle_id": "VEH_127",
+    "vehicle_type": "two_wheeler",
+    "registration_number": "MH45WE7115",
+    "capacity": {
+      "max_weight": 30,
+      "max_volume": 0.3,
+      "max_packages": 5
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": true,
+      "can_access_narrow_streets": true
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 300,
+      "cost_per_km": 4,
+      "cost_per_hour": 50
+    },
+    "availability": {
+      "start_time": "07:00",
+      "end_time": "20:00",
+      "max_working_hours": 10
+    },
+    "current_status": "available",
+    "assigned_zone": "North Mumbai"
+  },
+  {
+    "vehicle_id": "VEH_128",
+    "vehicle_type": "medium_truck",
+    "registration_number": "MH36SA3711",
+    "capacity": {
+      "max_weight": 2000,
+      "max_volume": 20,
+      "max_packages": 100
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": false,
+      "can_access_narrow_streets": false
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 4000,
+      "cost_per_km": 22,
+      "cost_per_hour": 300
+    },
+    "availability": {
+      "start_time": "05:00",
+      "end_time": "22:00",
+      "max_working_hours": 12
+    },
+    "current_status": "available",
+    "assigned_zone": "Virar-Vasai"
+  },
+  {
+    "vehicle_id": "VEH_129",
+    "vehicle_type": "two_wheeler",
+    "registration_number": "MH11LT5927",
+    "capacity": {
+      "max_weight": 30,
+      "max_volume": 0.3,
+      "max_packages": 5
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": true,
+      "can_access_narrow_streets": true
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 300,
+      "cost_per_km": 4,
+      "cost_per_hour": 50
+    },
+    "availability": {
+      "start_time": "07:00",
+      "end_time": "20:00",
+      "max_working_hours": 10
+    },
+    "current_status": "on_route",
+    "assigned_zone": "Western Suburbs"
+  },
+  {
+    "vehicle_id": "VEH_130",
+    "vehicle_type": "mini_truck",
+    "registration_number": "MH26BS6989",
+    "capacity": {
+      "max_weight": 800,
+      "max_volume": 8,
+      "max_packages": 50
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": true,
+      "can_access_narrow_streets": true
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 2500,
+      "cost_per_km": 16,
+      "cost_per_hour": 200
+    },
+    "availability": {
+      "start_time": "06:00",
+      "end_time": "21:00",
+      "max_working_hours": 11
+    },
+    "current_status": "available",
+    "assigned_zone": "North Mumbai"
+  },
+  {
+    "vehicle_id": "VEH_131",
+    "vehicle_type": "mini_truck",
+    "registration_number": "MH31RV5326",
+    "capacity": {
+      "max_weight": 800,
+      "max_volume": 8,
+      "max_packages": 50
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": true,
+      "can_access_narrow_streets": true
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 2500,
+      "cost_per_km": 16,
+      "cost_per_hour": 200
+    },
+    "availability": {
+      "start_time": "06:00",
+      "end_time": "21:00",
+      "max_working_hours": 11
+    },
+    "current_status": "on_route",
+    "assigned_zone": "North Mumbai"
+  },
+  {
+    "vehicle_id": "VEH_132",
+    "vehicle_type": "two_wheeler",
+    "registration_number": "MH02MN7218",
+    "capacity": {
+      "max_weight": 30,
+      "max_volume": 0.3,
+      "max_packages": 5
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": true,
+      "can_access_narrow_streets": true
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 300,
+      "cost_per_km": 4,
+      "cost_per_hour": 50
+    },
+    "availability": {
+      "start_time": "07:00",
+      "end_time": "20:00",
+      "max_working_hours": 10
+    },
+    "current_status": "available",
+    "assigned_zone": "Thane"
+  },
+  {
+    "vehicle_id": "VEH_133",
+    "vehicle_type": "small_van",
+    "registration_number": "MH23DU1425",
+    "capacity": {
+      "max_weight": 500,
+      "max_volume": 5,
+      "max_packages": 30
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": true,
+      "can_access_narrow_streets": true
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 1500,
+      "cost_per_km": 12,
+      "cost_per_hour": 150
+    },
+    "availability": {
+      "start_time": "06:00",
+      "end_time": "21:00",
+      "max_working_hours": 10
+    },
+    "current_status": "available",
+    "assigned_zone": "Thane"
+  },
+  {
+    "vehicle_id": "VEH_134",
+    "vehicle_type": "small_van",
+    "registration_number": "MH14EB8893",
+    "capacity": {
+      "max_weight": 500,
+      "max_volume": 5,
+      "max_packages": 30
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": true,
+      "can_access_narrow_streets": true
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 1500,
+      "cost_per_km": 12,
+      "cost_per_hour": 150
+    },
+    "availability": {
+      "start_time": "06:00",
+      "end_time": "21:00",
+      "max_working_hours": 10
+    },
+    "current_status": "available",
+    "assigned_zone": "Eastern Suburbs"
+  },
+  {
+    "vehicle_id": "VEH_135",
+    "vehicle_type": "mini_truck",
+    "registration_number": "MH36RK6884",
+    "capacity": {
+      "max_weight": 800,
+      "max_volume": 8,
+      "max_packages": 50
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": true,
+      "can_access_narrow_streets": true
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 2500,
+      "cost_per_km": 16,
+      "cost_per_hour": 200
+    },
+    "availability": {
+      "start_time": "06:00",
+      "end_time": "21:00",
+      "max_working_hours": 11
+    },
+    "current_status": "available",
+    "assigned_zone": "Virar-Vasai"
+  },
+  {
+    "vehicle_id": "VEH_136",
+    "vehicle_type": "mini_truck",
+    "registration_number": "MH15WW5257",
+    "capacity": {
+      "max_weight": 800,
+      "max_volume": 8,
+      "max_packages": 50
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": true,
+      "can_access_narrow_streets": true
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 2500,
+      "cost_per_km": 16,
+      "cost_per_hour": 200
+    },
+    "availability": {
+      "start_time": "06:00",
+      "end_time": "21:00",
+      "max_working_hours": 11
+    },
+    "current_status": "available",
+    "assigned_zone": "North Mumbai"
+  },
+  {
+    "vehicle_id": "VEH_137",
+    "vehicle_type": "small_van",
+    "registration_number": "MH43JG3343",
+    "capacity": {
+      "max_weight": 500,
+      "max_volume": 5,
+      "max_packages": 30
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": true,
+      "can_access_narrow_streets": true
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 1500,
+      "cost_per_km": 12,
+      "cost_per_hour": 150
+    },
+    "availability": {
+      "start_time": "06:00",
+      "end_time": "21:00",
+      "max_working_hours": 10
+    },
+    "current_status": "on_route",
+    "assigned_zone": "Navi Mumbai"
+  },
+  {
+    "vehicle_id": "VEH_138",
+    "vehicle_type": "mini_truck",
+    "registration_number": "MH05AP1346",
+    "capacity": {
+      "max_weight": 800,
+      "max_volume": 8,
+      "max_packages": 50
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": true,
+      "can_access_narrow_streets": true
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 2500,
+      "cost_per_km": 16,
+      "cost_per_hour": 200
+    },
+    "availability": {
+      "start_time": "06:00",
+      "end_time": "21:00",
+      "max_working_hours": 11
+    },
+    "current_status": "available",
+    "assigned_zone": "Navi Mumbai"
+  },
+  {
+    "vehicle_id": "VEH_139",
+    "vehicle_type": "mini_truck",
+    "registration_number": "MH40PF8837",
+    "capacity": {
+      "max_weight": 800,
+      "max_volume": 8,
+      "max_packages": 50
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": true,
+      "can_access_narrow_streets": true
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 2500,
+      "cost_per_km": 16,
+      "cost_per_hour": 200
+    },
+    "availability": {
+      "start_time": "06:00",
+      "end_time": "21:00",
+      "max_working_hours": 11
+    },
+    "current_status": "available",
+    "assigned_zone": "Virar-Vasai"
+  },
+  {
+    "vehicle_id": "VEH_140",
+    "vehicle_type": "mini_truck",
+    "registration_number": "MH20GP4343",
+    "capacity": {
+      "max_weight": 800,
+      "max_volume": 8,
+      "max_packages": 50
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": true,
+      "can_access_narrow_streets": true
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 2500,
+      "cost_per_km": 16,
+      "cost_per_hour": 200
+    },
+    "availability": {
+      "start_time": "06:00",
+      "end_time": "21:00",
+      "max_working_hours": 11
+    },
+    "current_status": "available",
+    "assigned_zone": "Eastern Suburbs"
+  },
+  {
+    "vehicle_id": "VEH_141",
+    "vehicle_type": "small_van",
+    "registration_number": "MH24AV5263",
+    "capacity": {
+      "max_weight": 500,
+      "max_volume": 5,
+      "max_packages": 30
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": true,
+      "can_access_narrow_streets": true
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 1500,
+      "cost_per_km": 12,
+      "cost_per_hour": 150
+    },
+    "availability": {
+      "start_time": "06:00",
+      "end_time": "21:00",
+      "max_working_hours": 10
+    },
+    "current_status": "available",
+    "assigned_zone": "Central Mumbai"
+  },
+  {
+    "vehicle_id": "VEH_142",
+    "vehicle_type": "two_wheeler",
+    "registration_number": "MH21RC4591",
+    "capacity": {
+      "max_weight": 30,
+      "max_volume": 0.3,
+      "max_packages": 5
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": true,
+      "can_access_narrow_streets": true
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 300,
+      "cost_per_km": 4,
+      "cost_per_hour": 50
+    },
+    "availability": {
+      "start_time": "07:00",
+      "end_time": "20:00",
+      "max_working_hours": 10
+    },
+    "current_status": "available",
+    "assigned_zone": "Thane"
+  },
+  {
+    "vehicle_id": "VEH_143",
+    "vehicle_type": "small_van",
+    "registration_number": "MH25LR8198",
+    "capacity": {
+      "max_weight": 500,
+      "max_volume": 5,
+      "max_packages": 30
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": true,
+      "can_access_narrow_streets": true
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 1500,
+      "cost_per_km": 12,
+      "cost_per_hour": 150
+    },
+    "availability": {
+      "start_time": "06:00",
+      "end_time": "21:00",
+      "max_working_hours": 10
+    },
+    "current_status": "available",
+    "assigned_zone": "Central Mumbai"
+  },
+  {
+    "vehicle_id": "VEH_144",
+    "vehicle_type": "small_van",
+    "registration_number": "MH20UH4630",
+    "capacity": {
+      "max_weight": 500,
+      "max_volume": 5,
+      "max_packages": 30
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": true,
+      "can_access_narrow_streets": true
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 1500,
+      "cost_per_km": 12,
+      "cost_per_hour": 150
+    },
+    "availability": {
+      "start_time": "06:00",
+      "end_time": "21:00",
+      "max_working_hours": 10
+    },
+    "current_status": "on_route",
+    "assigned_zone": "Thane"
+  },
+  {
+    "vehicle_id": "VEH_145",
+    "vehicle_type": "two_wheeler",
+    "registration_number": "MH42QG7573",
+    "capacity": {
+      "max_weight": 30,
+      "max_volume": 0.3,
+      "max_packages": 5
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": true,
+      "can_access_narrow_streets": true
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 300,
+      "cost_per_km": 4,
+      "cost_per_hour": 50
+    },
+    "availability": {
+      "start_time": "07:00",
+      "end_time": "20:00",
+      "max_working_hours": 10
+    },
+    "current_status": "available",
+    "assigned_zone": "Central Mumbai"
+  },
+  {
+    "vehicle_id": "VEH_146",
+    "vehicle_type": "reefer_van",
+    "registration_number": "MH23JW8148",
+    "capacity": {
+      "max_weight": 1000,
+      "max_volume": 10,
+      "max_packages": 50
+    },
+    "capabilities": {
+      "temperature_controlled": true,
+      "fragile_handling": true,
+      "can_access_narrow_streets": false
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 5000,
+      "cost_per_km": 28,
+      "cost_per_hour": 400
+    },
+    "availability": {
+      "start_time": "04:00",
+      "end_time": "22:00",
+      "max_working_hours": 10
+    },
+    "current_status": "available",
+    "assigned_zone": "Central Mumbai"
+  },
+  {
+    "vehicle_id": "VEH_147",
+    "vehicle_type": "small_van",
+    "registration_number": "MH34QJ3824",
+    "capacity": {
+      "max_weight": 500,
+      "max_volume": 5,
+      "max_packages": 30
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": true,
+      "can_access_narrow_streets": true
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 1500,
+      "cost_per_km": 12,
+      "cost_per_hour": 150
+    },
+    "availability": {
+      "start_time": "06:00",
+      "end_time": "21:00",
+      "max_working_hours": 10
+    },
+    "current_status": "available",
+    "assigned_zone": "Virar-Vasai"
+  },
+  {
+    "vehicle_id": "VEH_148",
+    "vehicle_type": "small_van",
+    "registration_number": "MH25DA4175",
+    "capacity": {
+      "max_weight": 500,
+      "max_volume": 5,
+      "max_packages": 30
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": true,
+      "can_access_narrow_streets": true
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 1500,
+      "cost_per_km": 12,
+      "cost_per_hour": 150
+    },
+    "availability": {
+      "start_time": "06:00",
+      "end_time": "21:00",
+      "max_working_hours": 10
+    },
+    "current_status": "available",
+    "assigned_zone": "Thane"
+  },
+  {
+    "vehicle_id": "VEH_149",
+    "vehicle_type": "large_truck",
+    "registration_number": "MH17VP2960",
+    "capacity": {
+      "max_weight": 8000,
+      "max_volume": 80,
+      "max_packages": 300
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": false,
+      "can_access_narrow_streets": false
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 8000,
+      "cost_per_km": 40,
+      "cost_per_hour": 500
+    },
+    "availability": {
+      "start_time": "05:00",
+      "end_time": "23:00",
+      "max_working_hours": 14
+    },
+    "current_status": "available",
+    "assigned_zone": "Thane"
+  },
+  {
+    "vehicle_id": "VEH_150",
+    "vehicle_type": "two_wheeler",
+    "registration_number": "MH47FU3514",
+    "capacity": {
+      "max_weight": 30,
+      "max_volume": 0.3,
+      "max_packages": 5
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": true,
+      "can_access_narrow_streets": true
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 300,
+      "cost_per_km": 4,
+      "cost_per_hour": 50
+    },
+    "availability": {
+      "start_time": "07:00",
+      "end_time": "20:00",
+      "max_working_hours": 10
+    },
+    "current_status": "available",
+    "assigned_zone": "South Mumbai"
+  },
+  {
+    "vehicle_id": "VEH_151",
+    "vehicle_type": "small_van",
+    "registration_number": "MH44KE1858",
+    "capacity": {
+      "max_weight": 500,
+      "max_volume": 5,
+      "max_packages": 30
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": true,
+      "can_access_narrow_streets": true
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 1500,
+      "cost_per_km": 12,
+      "cost_per_hour": 150
+    },
+    "availability": {
+      "start_time": "06:00",
+      "end_time": "21:00",
+      "max_working_hours": 10
+    },
+    "current_status": "available",
+    "assigned_zone": "North Mumbai"
+  },
+  {
+    "vehicle_id": "VEH_152",
+    "vehicle_type": "medium_truck",
+    "registration_number": "MH26WG8910",
+    "capacity": {
+      "max_weight": 2000,
+      "max_volume": 20,
+      "max_packages": 100
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": false,
+      "can_access_narrow_streets": false
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 4000,
+      "cost_per_km": 22,
+      "cost_per_hour": 300
+    },
+    "availability": {
+      "start_time": "05:00",
+      "end_time": "22:00",
+      "max_working_hours": 12
+    },
+    "current_status": "available",
+    "assigned_zone": "Western Suburbs"
+  },
+  {
+    "vehicle_id": "VEH_153",
+    "vehicle_type": "mini_truck",
+    "registration_number": "MH14EU8360",
+    "capacity": {
+      "max_weight": 800,
+      "max_volume": 8,
+      "max_packages": 50
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": true,
+      "can_access_narrow_streets": true
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 2500,
+      "cost_per_km": 16,
+      "cost_per_hour": 200
+    },
+    "availability": {
+      "start_time": "06:00",
+      "end_time": "21:00",
+      "max_working_hours": 11
+    },
+    "current_status": "available",
+    "assigned_zone": "Virar-Vasai"
+  },
+  {
+    "vehicle_id": "VEH_154",
+    "vehicle_type": "medium_truck",
+    "registration_number": "MH42UY5075",
+    "capacity": {
+      "max_weight": 2000,
+      "max_volume": 20,
+      "max_packages": 100
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": false,
+      "can_access_narrow_streets": false
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 4000,
+      "cost_per_km": 22,
+      "cost_per_hour": 300
+    },
+    "availability": {
+      "start_time": "05:00",
+      "end_time": "22:00",
+      "max_working_hours": 12
+    },
+    "current_status": "on_route",
+    "assigned_zone": "Western Suburbs"
+  },
+  {
+    "vehicle_id": "VEH_155",
+    "vehicle_type": "large_truck",
+    "registration_number": "MH43UP5599",
+    "capacity": {
+      "max_weight": 8000,
+      "max_volume": 80,
+      "max_packages": 300
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": false,
+      "can_access_narrow_streets": false
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 8000,
+      "cost_per_km": 40,
+      "cost_per_hour": 500
+    },
+    "availability": {
+      "start_time": "05:00",
+      "end_time": "23:00",
+      "max_working_hours": 14
+    },
+    "current_status": "available",
+    "assigned_zone": "Thane"
+  },
+  {
+    "vehicle_id": "VEH_156",
+    "vehicle_type": "reefer_van",
+    "registration_number": "MH22GG2942",
+    "capacity": {
+      "max_weight": 1000,
+      "max_volume": 10,
+      "max_packages": 50
+    },
+    "capabilities": {
+      "temperature_controlled": true,
+      "fragile_handling": true,
+      "can_access_narrow_streets": false
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 5000,
+      "cost_per_km": 28,
+      "cost_per_hour": 400
+    },
+    "availability": {
+      "start_time": "04:00",
+      "end_time": "22:00",
+      "max_working_hours": 10
+    },
+    "current_status": "available",
+    "assigned_zone": "Western Suburbs"
+  },
+  {
+    "vehicle_id": "VEH_157",
+    "vehicle_type": "reefer_van",
+    "registration_number": "MH30VV6955",
+    "capacity": {
+      "max_weight": 1000,
+      "max_volume": 10,
+      "max_packages": 50
+    },
+    "capabilities": {
+      "temperature_controlled": true,
+      "fragile_handling": true,
+      "can_access_narrow_streets": false
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 5000,
+      "cost_per_km": 28,
+      "cost_per_hour": 400
+    },
+    "availability": {
+      "start_time": "04:00",
+      "end_time": "22:00",
+      "max_working_hours": 10
+    },
+    "current_status": "maintenance",
+    "assigned_zone": "South Mumbai"
+  },
+  {
+    "vehicle_id": "VEH_158",
+    "vehicle_type": "large_truck",
+    "registration_number": "MH06GQ8861",
+    "capacity": {
+      "max_weight": 8000,
+      "max_volume": 80,
+      "max_packages": 300
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": false,
+      "can_access_narrow_streets": false
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 8000,
+      "cost_per_km": 40,
+      "cost_per_hour": 500
+    },
+    "availability": {
+      "start_time": "05:00",
+      "end_time": "23:00",
+      "max_working_hours": 14
+    },
+    "current_status": "on_route",
+    "assigned_zone": "North Mumbai"
+  },
+  {
+    "vehicle_id": "VEH_159",
+    "vehicle_type": "mini_truck",
+    "registration_number": "MH16CH3220",
+    "capacity": {
+      "max_weight": 800,
+      "max_volume": 8,
+      "max_packages": 50
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": true,
+      "can_access_narrow_streets": true
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 2500,
+      "cost_per_km": 16,
+      "cost_per_hour": 200
+    },
+    "availability": {
+      "start_time": "06:00",
+      "end_time": "21:00",
+      "max_working_hours": 11
+    },
+    "current_status": "maintenance",
+    "assigned_zone": "Navi Mumbai"
+  },
+  {
+    "vehicle_id": "VEH_160",
+    "vehicle_type": "two_wheeler",
+    "registration_number": "MH36CE2867",
+    "capacity": {
+      "max_weight": 30,
+      "max_volume": 0.3,
+      "max_packages": 5
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": true,
+      "can_access_narrow_streets": true
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 300,
+      "cost_per_km": 4,
+      "cost_per_hour": 50
+    },
+    "availability": {
+      "start_time": "07:00",
+      "end_time": "20:00",
+      "max_working_hours": 10
+    },
+    "current_status": "available",
+    "assigned_zone": "Eastern Suburbs"
+  },
+  {
+    "vehicle_id": "VEH_161",
+    "vehicle_type": "small_van",
+    "registration_number": "MH49DS1457",
+    "capacity": {
+      "max_weight": 500,
+      "max_volume": 5,
+      "max_packages": 30
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": true,
+      "can_access_narrow_streets": true
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 1500,
+      "cost_per_km": 12,
+      "cost_per_hour": 150
+    },
+    "availability": {
+      "start_time": "06:00",
+      "end_time": "21:00",
+      "max_working_hours": 10
+    },
+    "current_status": "available",
+    "assigned_zone": "North Mumbai"
+  },
+  {
+    "vehicle_id": "VEH_162",
+    "vehicle_type": "reefer_van",
+    "registration_number": "MH23SY2522",
+    "capacity": {
+      "max_weight": 1000,
+      "max_volume": 10,
+      "max_packages": 50
+    },
+    "capabilities": {
+      "temperature_controlled": true,
+      "fragile_handling": true,
+      "can_access_narrow_streets": false
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 5000,
+      "cost_per_km": 28,
+      "cost_per_hour": 400
+    },
+    "availability": {
+      "start_time": "04:00",
+      "end_time": "22:00",
+      "max_working_hours": 10
+    },
+    "current_status": "available",
+    "assigned_zone": "Virar-Vasai"
+  },
+  {
+    "vehicle_id": "VEH_163",
+    "vehicle_type": "two_wheeler",
+    "registration_number": "MH08RE4024",
+    "capacity": {
+      "max_weight": 30,
+      "max_volume": 0.3,
+      "max_packages": 5
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": true,
+      "can_access_narrow_streets": true
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 300,
+      "cost_per_km": 4,
+      "cost_per_hour": 50
+    },
+    "availability": {
+      "start_time": "07:00",
+      "end_time": "20:00",
+      "max_working_hours": 10
+    },
+    "current_status": "available",
+    "assigned_zone": "Central Mumbai"
+  },
+  {
+    "vehicle_id": "VEH_164",
+    "vehicle_type": "large_truck",
+    "registration_number": "MH13CB7364",
+    "capacity": {
+      "max_weight": 8000,
+      "max_volume": 80,
+      "max_packages": 300
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": false,
+      "can_access_narrow_streets": false
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 8000,
+      "cost_per_km": 40,
+      "cost_per_hour": 500
+    },
+    "availability": {
+      "start_time": "05:00",
+      "end_time": "23:00",
+      "max_working_hours": 14
+    },
+    "current_status": "on_route",
+    "assigned_zone": "North Mumbai"
+  },
+  {
+    "vehicle_id": "VEH_165",
+    "vehicle_type": "mini_truck",
+    "registration_number": "MH50GU5508",
+    "capacity": {
+      "max_weight": 800,
+      "max_volume": 8,
+      "max_packages": 50
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": true,
+      "can_access_narrow_streets": true
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 2500,
+      "cost_per_km": 16,
+      "cost_per_hour": 200
+    },
+    "availability": {
+      "start_time": "06:00",
+      "end_time": "21:00",
+      "max_working_hours": 11
+    },
+    "current_status": "on_route",
+    "assigned_zone": "Navi Mumbai"
+  },
+  {
+    "vehicle_id": "VEH_166",
+    "vehicle_type": "mini_truck",
+    "registration_number": "MH22RY4003",
+    "capacity": {
+      "max_weight": 800,
+      "max_volume": 8,
+      "max_packages": 50
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": true,
+      "can_access_narrow_streets": true
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 2500,
+      "cost_per_km": 16,
+      "cost_per_hour": 200
+    },
+    "availability": {
+      "start_time": "06:00",
+      "end_time": "21:00",
+      "max_working_hours": 11
+    },
+    "current_status": "available",
+    "assigned_zone": "North Mumbai"
+  },
+  {
+    "vehicle_id": "VEH_167",
+    "vehicle_type": "small_van",
+    "registration_number": "MH34VX6544",
+    "capacity": {
+      "max_weight": 500,
+      "max_volume": 5,
+      "max_packages": 30
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": true,
+      "can_access_narrow_streets": true
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 1500,
+      "cost_per_km": 12,
+      "cost_per_hour": 150
+    },
+    "availability": {
+      "start_time": "06:00",
+      "end_time": "21:00",
+      "max_working_hours": 10
+    },
+    "current_status": "on_route",
+    "assigned_zone": "North Mumbai"
+  },
+  {
+    "vehicle_id": "VEH_168",
+    "vehicle_type": "mini_truck",
+    "registration_number": "MH34VN8146",
+    "capacity": {
+      "max_weight": 800,
+      "max_volume": 8,
+      "max_packages": 50
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": true,
+      "can_access_narrow_streets": true
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 2500,
+      "cost_per_km": 16,
+      "cost_per_hour": 200
+    },
+    "availability": {
+      "start_time": "06:00",
+      "end_time": "21:00",
+      "max_working_hours": 11
+    },
+    "current_status": "maintenance",
+    "assigned_zone": "Eastern Suburbs"
+  },
+  {
+    "vehicle_id": "VEH_169",
+    "vehicle_type": "small_van",
+    "registration_number": "MH14TH8319",
+    "capacity": {
+      "max_weight": 500,
+      "max_volume": 5,
+      "max_packages": 30
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": true,
+      "can_access_narrow_streets": true
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 1500,
+      "cost_per_km": 12,
+      "cost_per_hour": 150
+    },
+    "availability": {
+      "start_time": "06:00",
+      "end_time": "21:00",
+      "max_working_hours": 10
+    },
+    "current_status": "maintenance",
+    "assigned_zone": "Eastern Suburbs"
+  },
+  {
+    "vehicle_id": "VEH_170",
+    "vehicle_type": "small_van",
+    "registration_number": "MH18XB3956",
+    "capacity": {
+      "max_weight": 500,
+      "max_volume": 5,
+      "max_packages": 30
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": true,
+      "can_access_narrow_streets": true
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 1500,
+      "cost_per_km": 12,
+      "cost_per_hour": 150
+    },
+    "availability": {
+      "start_time": "06:00",
+      "end_time": "21:00",
+      "max_working_hours": 10
+    },
+    "current_status": "available",
+    "assigned_zone": "North Mumbai"
+  },
+  {
+    "vehicle_id": "VEH_171",
+    "vehicle_type": "large_truck",
+    "registration_number": "MH31ZT7316",
+    "capacity": {
+      "max_weight": 8000,
+      "max_volume": 80,
+      "max_packages": 300
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": false,
+      "can_access_narrow_streets": false
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 8000,
+      "cost_per_km": 40,
+      "cost_per_hour": 500
+    },
+    "availability": {
+      "start_time": "05:00",
+      "end_time": "23:00",
+      "max_working_hours": 14
+    },
+    "current_status": "available",
+    "assigned_zone": "Eastern Suburbs"
+  },
+  {
+    "vehicle_id": "VEH_172",
+    "vehicle_type": "two_wheeler",
+    "registration_number": "MH47WS6898",
+    "capacity": {
+      "max_weight": 30,
+      "max_volume": 0.3,
+      "max_packages": 5
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": true,
+      "can_access_narrow_streets": true
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 300,
+      "cost_per_km": 4,
+      "cost_per_hour": 50
+    },
+    "availability": {
+      "start_time": "07:00",
+      "end_time": "20:00",
+      "max_working_hours": 10
+    },
+    "current_status": "available",
+    "assigned_zone": "Thane"
+  },
+  {
+    "vehicle_id": "VEH_173",
+    "vehicle_type": "mini_truck",
+    "registration_number": "MH06VH7885",
+    "capacity": {
+      "max_weight": 800,
+      "max_volume": 8,
+      "max_packages": 50
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": true,
+      "can_access_narrow_streets": true
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 2500,
+      "cost_per_km": 16,
+      "cost_per_hour": 200
+    },
+    "availability": {
+      "start_time": "06:00",
+      "end_time": "21:00",
+      "max_working_hours": 11
+    },
+    "current_status": "available",
+    "assigned_zone": "Virar-Vasai"
+  },
+  {
+    "vehicle_id": "VEH_174",
+    "vehicle_type": "medium_truck",
+    "registration_number": "MH37GS2741",
+    "capacity": {
+      "max_weight": 2000,
+      "max_volume": 20,
+      "max_packages": 100
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": false,
+      "can_access_narrow_streets": false
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 4000,
+      "cost_per_km": 22,
+      "cost_per_hour": 300
+    },
+    "availability": {
+      "start_time": "05:00",
+      "end_time": "22:00",
+      "max_working_hours": 12
+    },
+    "current_status": "available",
+    "assigned_zone": "Central Mumbai"
+  },
+  {
+    "vehicle_id": "VEH_175",
+    "vehicle_type": "two_wheeler",
+    "registration_number": "MH22XP7477",
+    "capacity": {
+      "max_weight": 30,
+      "max_volume": 0.3,
+      "max_packages": 5
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": true,
+      "can_access_narrow_streets": true
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 300,
+      "cost_per_km": 4,
+      "cost_per_hour": 50
+    },
+    "availability": {
+      "start_time": "07:00",
+      "end_time": "20:00",
+      "max_working_hours": 10
+    },
+    "current_status": "on_route",
+    "assigned_zone": "Virar-Vasai"
+  },
+  {
+    "vehicle_id": "VEH_176",
+    "vehicle_type": "large_truck",
+    "registration_number": "MH48TN3970",
+    "capacity": {
+      "max_weight": 8000,
+      "max_volume": 80,
+      "max_packages": 300
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": false,
+      "can_access_narrow_streets": false
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 8000,
+      "cost_per_km": 40,
+      "cost_per_hour": 500
+    },
+    "availability": {
+      "start_time": "05:00",
+      "end_time": "23:00",
+      "max_working_hours": 14
+    },
+    "current_status": "on_route",
+    "assigned_zone": "North Mumbai"
+  },
+  {
+    "vehicle_id": "VEH_177",
+    "vehicle_type": "reefer_van",
+    "registration_number": "MH13ZC4863",
+    "capacity": {
+      "max_weight": 1000,
+      "max_volume": 10,
+      "max_packages": 50
+    },
+    "capabilities": {
+      "temperature_controlled": true,
+      "fragile_handling": true,
+      "can_access_narrow_streets": false
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 5000,
+      "cost_per_km": 28,
+      "cost_per_hour": 400
+    },
+    "availability": {
+      "start_time": "04:00",
+      "end_time": "22:00",
+      "max_working_hours": 10
+    },
+    "current_status": "on_route",
+    "assigned_zone": "Navi Mumbai"
+  },
+  {
+    "vehicle_id": "VEH_178",
+    "vehicle_type": "two_wheeler",
+    "registration_number": "MH46LF1191",
+    "capacity": {
+      "max_weight": 30,
+      "max_volume": 0.3,
+      "max_packages": 5
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": true,
+      "can_access_narrow_streets": true
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 300,
+      "cost_per_km": 4,
+      "cost_per_hour": 50
+    },
+    "availability": {
+      "start_time": "07:00",
+      "end_time": "20:00",
+      "max_working_hours": 10
+    },
+    "current_status": "available",
+    "assigned_zone": "North Mumbai"
+  },
+  {
+    "vehicle_id": "VEH_179",
+    "vehicle_type": "small_van",
+    "registration_number": "MH09YA1930",
+    "capacity": {
+      "max_weight": 500,
+      "max_volume": 5,
+      "max_packages": 30
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": true,
+      "can_access_narrow_streets": true
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 1500,
+      "cost_per_km": 12,
+      "cost_per_hour": 150
+    },
+    "availability": {
+      "start_time": "06:00",
+      "end_time": "21:00",
+      "max_working_hours": 10
+    },
+    "current_status": "available",
+    "assigned_zone": "Virar-Vasai"
+  },
+  {
+    "vehicle_id": "VEH_180",
+    "vehicle_type": "two_wheeler",
+    "registration_number": "MH12KV8175",
+    "capacity": {
+      "max_weight": 30,
+      "max_volume": 0.3,
+      "max_packages": 5
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": true,
+      "can_access_narrow_streets": true
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 300,
+      "cost_per_km": 4,
+      "cost_per_hour": 50
+    },
+    "availability": {
+      "start_time": "07:00",
+      "end_time": "20:00",
+      "max_working_hours": 10
+    },
+    "current_status": "available",
+    "assigned_zone": "Navi Mumbai"
+  },
+  {
+    "vehicle_id": "VEH_181",
+    "vehicle_type": "large_truck",
+    "registration_number": "MH04UK9987",
+    "capacity": {
+      "max_weight": 8000,
+      "max_volume": 80,
+      "max_packages": 300
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": false,
+      "can_access_narrow_streets": false
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 8000,
+      "cost_per_km": 40,
+      "cost_per_hour": 500
+    },
+    "availability": {
+      "start_time": "05:00",
+      "end_time": "23:00",
+      "max_working_hours": 14
+    },
+    "current_status": "available",
+    "assigned_zone": "South Mumbai"
+  },
+  {
+    "vehicle_id": "VEH_182",
+    "vehicle_type": "small_van",
+    "registration_number": "MH44GB2220",
+    "capacity": {
+      "max_weight": 500,
+      "max_volume": 5,
+      "max_packages": 30
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": true,
+      "can_access_narrow_streets": true
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 1500,
+      "cost_per_km": 12,
+      "cost_per_hour": 150
+    },
+    "availability": {
+      "start_time": "06:00",
+      "end_time": "21:00",
+      "max_working_hours": 10
+    },
+    "current_status": "maintenance",
+    "assigned_zone": "Navi Mumbai"
+  },
+  {
+    "vehicle_id": "VEH_183",
+    "vehicle_type": "medium_truck",
+    "registration_number": "MH36WZ3403",
+    "capacity": {
+      "max_weight": 2000,
+      "max_volume": 20,
+      "max_packages": 100
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": false,
+      "can_access_narrow_streets": false
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 4000,
+      "cost_per_km": 22,
+      "cost_per_hour": 300
+    },
+    "availability": {
+      "start_time": "05:00",
+      "end_time": "22:00",
+      "max_working_hours": 12
+    },
+    "current_status": "available",
+    "assigned_zone": "South Mumbai"
+  },
+  {
+    "vehicle_id": "VEH_184",
+    "vehicle_type": "two_wheeler",
+    "registration_number": "MH13DK9430",
+    "capacity": {
+      "max_weight": 30,
+      "max_volume": 0.3,
+      "max_packages": 5
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": true,
+      "can_access_narrow_streets": true
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 300,
+      "cost_per_km": 4,
+      "cost_per_hour": 50
+    },
+    "availability": {
+      "start_time": "07:00",
+      "end_time": "20:00",
+      "max_working_hours": 10
+    },
+    "current_status": "on_route",
+    "assigned_zone": "Central Mumbai"
+  },
+  {
+    "vehicle_id": "VEH_185",
+    "vehicle_type": "medium_truck",
+    "registration_number": "MH10ZF3691",
+    "capacity": {
+      "max_weight": 2000,
+      "max_volume": 20,
+      "max_packages": 100
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": false,
+      "can_access_narrow_streets": false
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 4000,
+      "cost_per_km": 22,
+      "cost_per_hour": 300
+    },
+    "availability": {
+      "start_time": "05:00",
+      "end_time": "22:00",
+      "max_working_hours": 12
+    },
+    "current_status": "on_route",
+    "assigned_zone": "Navi Mumbai"
+  },
+  {
+    "vehicle_id": "VEH_186",
+    "vehicle_type": "two_wheeler",
+    "registration_number": "MH10AL8835",
+    "capacity": {
+      "max_weight": 30,
+      "max_volume": 0.3,
+      "max_packages": 5
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": true,
+      "can_access_narrow_streets": true
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 300,
+      "cost_per_km": 4,
+      "cost_per_hour": 50
+    },
+    "availability": {
+      "start_time": "07:00",
+      "end_time": "20:00",
+      "max_working_hours": 10
+    },
+    "current_status": "available",
+    "assigned_zone": "South Mumbai"
+  },
+  {
+    "vehicle_id": "VEH_187",
+    "vehicle_type": "two_wheeler",
+    "registration_number": "MH39QZ1033",
+    "capacity": {
+      "max_weight": 30,
+      "max_volume": 0.3,
+      "max_packages": 5
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": true,
+      "can_access_narrow_streets": true
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 300,
+      "cost_per_km": 4,
+      "cost_per_hour": 50
+    },
+    "availability": {
+      "start_time": "07:00",
+      "end_time": "20:00",
+      "max_working_hours": 10
+    },
+    "current_status": "available",
+    "assigned_zone": "Thane"
+  },
+  {
+    "vehicle_id": "VEH_188",
+    "vehicle_type": "mini_truck",
+    "registration_number": "MH28KP4434",
+    "capacity": {
+      "max_weight": 800,
+      "max_volume": 8,
+      "max_packages": 50
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": true,
+      "can_access_narrow_streets": true
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 2500,
+      "cost_per_km": 16,
+      "cost_per_hour": 200
+    },
+    "availability": {
+      "start_time": "06:00",
+      "end_time": "21:00",
+      "max_working_hours": 11
+    },
+    "current_status": "on_route",
+    "assigned_zone": "Navi Mumbai"
+  },
+  {
+    "vehicle_id": "VEH_189",
+    "vehicle_type": "small_van",
+    "registration_number": "MH27YL2667",
+    "capacity": {
+      "max_weight": 500,
+      "max_volume": 5,
+      "max_packages": 30
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": true,
+      "can_access_narrow_streets": true
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 1500,
+      "cost_per_km": 12,
+      "cost_per_hour": 150
+    },
+    "availability": {
+      "start_time": "06:00",
+      "end_time": "21:00",
+      "max_working_hours": 10
+    },
+    "current_status": "available",
+    "assigned_zone": "South Mumbai"
+  },
+  {
+    "vehicle_id": "VEH_190",
+    "vehicle_type": "medium_truck",
+    "registration_number": "MH10UB7457",
+    "capacity": {
+      "max_weight": 2000,
+      "max_volume": 20,
+      "max_packages": 100
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": false,
+      "can_access_narrow_streets": false
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 4000,
+      "cost_per_km": 22,
+      "cost_per_hour": 300
+    },
+    "availability": {
+      "start_time": "05:00",
+      "end_time": "22:00",
+      "max_working_hours": 12
+    },
+    "current_status": "available",
+    "assigned_zone": "Central Mumbai"
+  },
+  {
+    "vehicle_id": "VEH_191",
+    "vehicle_type": "small_van",
+    "registration_number": "MH42UT3692",
+    "capacity": {
+      "max_weight": 500,
+      "max_volume": 5,
+      "max_packages": 30
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": true,
+      "can_access_narrow_streets": true
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 1500,
+      "cost_per_km": 12,
+      "cost_per_hour": 150
+    },
+    "availability": {
+      "start_time": "06:00",
+      "end_time": "21:00",
+      "max_working_hours": 10
+    },
+    "current_status": "available",
+    "assigned_zone": "Eastern Suburbs"
+  },
+  {
+    "vehicle_id": "VEH_192",
+    "vehicle_type": "two_wheeler",
+    "registration_number": "MH47DL2578",
+    "capacity": {
+      "max_weight": 30,
+      "max_volume": 0.3,
+      "max_packages": 5
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": true,
+      "can_access_narrow_streets": true
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 300,
+      "cost_per_km": 4,
+      "cost_per_hour": 50
+    },
+    "availability": {
+      "start_time": "07:00",
+      "end_time": "20:00",
+      "max_working_hours": 10
+    },
+    "current_status": "available",
+    "assigned_zone": "Navi Mumbai"
+  },
+  {
+    "vehicle_id": "VEH_193",
+    "vehicle_type": "small_van",
+    "registration_number": "MH38DC8788",
+    "capacity": {
+      "max_weight": 500,
+      "max_volume": 5,
+      "max_packages": 30
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": true,
+      "can_access_narrow_streets": true
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 1500,
+      "cost_per_km": 12,
+      "cost_per_hour": 150
+    },
+    "availability": {
+      "start_time": "06:00",
+      "end_time": "21:00",
+      "max_working_hours": 10
+    },
+    "current_status": "on_route",
+    "assigned_zone": "Navi Mumbai"
+  },
+  {
+    "vehicle_id": "VEH_194",
+    "vehicle_type": "two_wheeler",
+    "registration_number": "MH26PC3358",
+    "capacity": {
+      "max_weight": 30,
+      "max_volume": 0.3,
+      "max_packages": 5
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": true,
+      "can_access_narrow_streets": true
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 300,
+      "cost_per_km": 4,
+      "cost_per_hour": 50
+    },
+    "availability": {
+      "start_time": "07:00",
+      "end_time": "20:00",
+      "max_working_hours": 10
+    },
+    "current_status": "on_route",
+    "assigned_zone": "North Mumbai"
+  },
+  {
+    "vehicle_id": "VEH_195",
+    "vehicle_type": "mini_truck",
+    "registration_number": "MH35FQ7254",
+    "capacity": {
+      "max_weight": 800,
+      "max_volume": 8,
+      "max_packages": 50
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": true,
+      "can_access_narrow_streets": true
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 2500,
+      "cost_per_km": 16,
+      "cost_per_hour": 200
+    },
+    "availability": {
+      "start_time": "06:00",
+      "end_time": "21:00",
+      "max_working_hours": 11
+    },
+    "current_status": "available",
+    "assigned_zone": "Virar-Vasai"
+  },
+  {
+    "vehicle_id": "VEH_196",
+    "vehicle_type": "medium_truck",
+    "registration_number": "MH03RA4140",
+    "capacity": {
+      "max_weight": 2000,
+      "max_volume": 20,
+      "max_packages": 100
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": false,
+      "can_access_narrow_streets": false
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 4000,
+      "cost_per_km": 22,
+      "cost_per_hour": 300
+    },
+    "availability": {
+      "start_time": "05:00",
+      "end_time": "22:00",
+      "max_working_hours": 12
+    },
+    "current_status": "available",
+    "assigned_zone": "Central Mumbai"
+  },
+  {
+    "vehicle_id": "VEH_197",
+    "vehicle_type": "two_wheeler",
+    "registration_number": "MH17BS5642",
+    "capacity": {
+      "max_weight": 30,
+      "max_volume": 0.3,
+      "max_packages": 5
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": true,
+      "can_access_narrow_streets": true
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 300,
+      "cost_per_km": 4,
+      "cost_per_hour": 50
+    },
+    "availability": {
+      "start_time": "07:00",
+      "end_time": "20:00",
+      "max_working_hours": 10
+    },
+    "current_status": "available",
+    "assigned_zone": "Thane"
+  },
+  {
+    "vehicle_id": "VEH_198",
+    "vehicle_type": "small_van",
+    "registration_number": "MH21JM5708",
+    "capacity": {
+      "max_weight": 500,
+      "max_volume": 5,
+      "max_packages": 30
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": true,
+      "can_access_narrow_streets": true
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 1500,
+      "cost_per_km": 12,
+      "cost_per_hour": 150
+    },
+    "availability": {
+      "start_time": "06:00",
+      "end_time": "21:00",
+      "max_working_hours": 10
+    },
+    "current_status": "maintenance",
+    "assigned_zone": "Virar-Vasai"
+  },
+  {
+    "vehicle_id": "VEH_199",
+    "vehicle_type": "medium_truck",
+    "registration_number": "MH03QG4608",
+    "capacity": {
+      "max_weight": 2000,
+      "max_volume": 20,
+      "max_packages": 100
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": false,
+      "can_access_narrow_streets": false
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 4000,
+      "cost_per_km": 22,
+      "cost_per_hour": 300
+    },
+    "availability": {
+      "start_time": "05:00",
+      "end_time": "22:00",
+      "max_working_hours": 12
+    },
+    "current_status": "maintenance",
+    "assigned_zone": "Eastern Suburbs"
+  },
+  {
+    "vehicle_id": "VEH_200",
+    "vehicle_type": "two_wheeler",
+    "registration_number": "MH33BZ5871",
+    "capacity": {
+      "max_weight": 30,
+      "max_volume": 0.3,
+      "max_packages": 5
+    },
+    "capabilities": {
+      "temperature_controlled": false,
+      "fragile_handling": true,
+      "can_access_narrow_streets": true
+    },
+    "operating_costs": {
+      "fixed_cost_per_day": 300,
+      "cost_per_km": 4,
+      "cost_per_hour": 50
+    },
+    "availability": {
+      "start_time": "07:00",
+      "end_time": "20:00",
+      "max_working_hours": 10
+    },
+    "current_status": "on_route",
+    "assigned_zone": "Eastern Suburbs"
+  }
+]

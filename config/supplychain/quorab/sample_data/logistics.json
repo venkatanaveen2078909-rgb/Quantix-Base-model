@@ -1,0 +1,21 @@
+{
+  "nodes": [
+    {"id": "DEPOT", "type": "depot", "demand": 0},
+    {"id": "STORE_1", "type": "customer", "demand": 10},
+    {"id": "STORE_2", "type": "customer", "demand": 15},
+    {"id": "STORE_3", "type": "customer", "demand": 20},
+    {"id": "STORE_4", "type": "customer", "demand": 5}
+  ],
+  "edges": [
+    {"source": "DEPOT", "target": "STORE_1", "distance": 10.5, "cost": 15},
+    {"source": "DEPOT", "target": "STORE_2", "distance": 20.0, "cost": 30},
+    {"source": "DEPOT", "target": "STORE_3", "distance": 15.2, "cost": 22},
+    {"source": "DEPOT", "target": "STORE_4", "distance": 8.0, "cost": 12},
+    {"source": "STORE_1", "target": "STORE_2", "distance": 12.0, "cost": 18},
+    {"source": "STORE_1", "target": "STORE_3", "distance": 25.0, "cost": 35},
+    {"source": "STORE_1", "target": "STORE_4", "distance": 14.5, "cost": 21},
+    {"source": "STORE_2", "target": "STORE_3", "distance": 9.5, "cost": 14},
+    {"source": "STORE_2", "target": "STORE_4", "distance": 18.0, "cost": 26},
+    {"source": "STORE_3", "target": "STORE_4", "distance": 11.0, "cost": 16}
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "route_input": {
+    "nodes": ["Depot", "A", "B", "C", "D"],
+    "edges": [
+      ["Depot", "A", 120.0], ["A", "B", 85.0], ["B", "C", 210.0], 
+      ["C", "D", 45.0], ["D", "Depot", 180.0], ["A", "C", 300.0]
+    ],
+    "traffic_scores": {"A": 0.2, "B": 0.6, "C": 0.4, "D": 0.7},
+    "weather_scores": {"A": 0.1, "B": 0.8, "C": 0.3, "D": 0.5},
+    "depot": "Depot",
+    "current_weather": "HEAVY_RAIN",
+    "node_metadata": {
+      "B": {"node_id": "B", "road_condition": "GRAVEL", "urban": false},
+      "D": {"node_id": "D", "is_bridge": true}
+    },
+    "delivery_deadlines": {"C": 12.0}
+  },
+  "supply_chain_input": {
+    "suppliers": ["Vendor_X", "Vendor_Y"],
+    "supplier_reliability": {"Vendor_X": 0.9, "Vendor_Y": 0.5},
+    "warehouse_stock": {"Vendor_X": 500, "Vendor_Y": 50},
+    "demand_forecasts": {"A": 100, "B": 100, "C": 100, "D": 100}
+  },
+  "cost_input": {
+    "fuel_cost_per_km": 1.2,
+    "driver_cost_per_hour": 45.0,
+    "warehouse_cost_per_day": 200.0,
+    "num_trucks": 3,
+    "truck_capacity": 250.0,
+    "delivery_loads": {"A": 50, "B": 50, "C": 50, "D": 50},
+    "route_distances": {"Depot-A": 120, "A-B": 85, "B-C": 210, "C-D": 45}
+  }
+}
