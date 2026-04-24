@@ -1,4 +1,4 @@
-# 🌌 Quantix — Unified Quantum-Hybrid Optimization Platform (v3.0.0)
+# 🌌 Quantix — Unified Quantum-Agentic AI Hybrid Optimization Platform (v3.0.0)
 
 [![Python](https://img.shields.io/badge/Python-3.14-blue.svg)](https://www.python.org/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-v0.110.0-green.svg)](https://fastapi.tiangolo.com/)
